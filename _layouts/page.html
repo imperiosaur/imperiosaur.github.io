@@ -34,6 +34,21 @@ layout: default
     <div class="summary">{{page.summary}}</div>
    {% endif %}
 
+
+   {% for entry in site.data.scenarios.entries %}
+      {% if entry.title == page.scenario %}
+        <ul>
+          <li> Paizo Product Page: <a href="{{entry.productpage}}"> Link</a></li>
+          <li> GM Disucssion Thread: <a href="{{entry.gmdiscussion}}"> Link</a></li>
+          <li> PFS Prep Forum: <a href="{{entry.pfsprep}}"> Link</a></li>
+          <li> PathfinderWiki page: <a href="{{entry.wiki}}"> Link</a></li>
+        </ul>
+      {% endif %}
+   {% endfor %}
+
+
+
+
     {% unless page.toc == false %}
     {% include toc.html %}
     {% endunless %}

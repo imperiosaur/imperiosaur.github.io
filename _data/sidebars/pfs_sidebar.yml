@@ -38,3 +38,11 @@ entries:
     - title: 04-03 The Golemworks Incident
       url: /pfs_0403.html
       output: web
+
+  - title: Season 5
+    output: web, pdf
+
+    folderitems:
+    - title: 05-13 Weapon in the Rift
+      url: /pfs_0513.html
+      output: web
