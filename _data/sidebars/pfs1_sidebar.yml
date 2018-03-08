@@ -24,19 +24,15 @@ entries:
     output: web, pdf
     folderitems:
     - title: Product 1 home
-      url: /pfs_landing_page.html
+      url: /pfs1_landing_page.html
       output: web
-
-    - title: Sample 1
-      url: /pfs_sample1.html
-      output: web, pdf
 
   - title: Season 4
     output: web, pdf
 
     folderitems:
     - title: 04-03 The Golemworks Incident
-      url: /pfs_0403.html
+      url: /pfs1_0403.html
       output: web
 
   - title: Season 5
@@ -44,5 +40,5 @@ entries:
 
     folderitems:
     - title: 05-13 Weapon in the Rift
-      url: /pfs_0513.html
+      url: /pfs1_0513.html
       output: web

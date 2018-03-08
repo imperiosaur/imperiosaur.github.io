@@ -1,5 +1,5 @@
 entries:
-  - title: 04-03
+  - title: pfs1-04-03
     name: The Golemworks Incident
     campaign: PFS
     author: Larry Wilhelm
@@ -8,7 +8,7 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?157
     wiki: https://pathfinderwiki.com/wiki/The_Golemworks_Incident
     tier: 5-9
-  - title: 05-09
+  - title: pfs1-05-09
     name: The Confirmation
     campaign: PFS
     author: x
@@ -17,7 +17,7 @@ entries:
     pfsprep: x
     wiki: x
     tier: 1-2
-  - title: 05-13
+  - title: pfs1-05-13
     name: Weapon in the Rift
     campaign: PFS
     author: Nathan King
