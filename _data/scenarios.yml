@@ -1,28 +1,34 @@
 entries:
   - title: pfs1-04-03
+    number: 04-03
     name: The Golemworks Incident
     campaign: PFS
     author: Larry Wilhelm
+    thissite: pfs1_0403.html
     productpage: http://paizo.com/products/btpy8r0f?Pathfinder-Society-Scenario-4-03-The-Golemworks-Incident
     gmdiscussion: http://paizo.com/threads/rzs2oo29?403-Golemworks-Incident#1
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?157
     wiki: https://pathfinderwiki.com/wiki/The_Golemworks_Incident
     tier: 5-9
-  - title: pfs1-05-09
-    name: The Confirmation
-    campaign: PFS
-    author: x
-    productpage: x
-    gmdiscussion: x
-    pfsprep: x
-    wiki: x
-    tier: 1-2
   - title: pfs1-05-13
+    number: 05-13
     name: Weapon in the Rift
     campaign: PFS
     author: Nathan King
+    thissite: pfs1_0513.html
     productpage: http://paizo.com/products/btpy93m1?Pathfinder-Society-Scenario-5-13-Weapon-in-the-Rift
     gmdiscussion: http://paizo.com/threads/rzs2qmss?513-Weapon-in-the-Rift-GM-Discussion-Spoilers#1
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?194
     wiki: https://pathfinderwiki.com/wiki/Weapon_in_the_Rift
     tier: 5-9
+  - title: sfs-01-01
+    number: 01-01
+    name: The Commencement
+    campaign: SFS
+    author: x
+    thissite: sfs_0101.html
+    productpage: http://paizo.com/products/btpy9tsw?Starfinder-Society-Roleplaying-Guild-Scenario-101-The-Commencement
+    gmdiscussion: http://paizo.com/threads/rzs2ujwb?SFS-101-The-Commencement#1
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?378
+    wiki: https://starfinderwiki.com/sf/The_Commencement
+    tier: 1-2
