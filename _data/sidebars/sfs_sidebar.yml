@@ -34,3 +34,6 @@ entries:
     - title: 01-01 The Commencement
       url: /sfs_0101.html
       output: web
+    - title: 01-05 The First Mandate
+      url: /sfs_0105.html
+      output: web

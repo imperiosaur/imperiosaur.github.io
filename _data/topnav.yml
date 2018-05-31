@@ -24,8 +24,6 @@ topnav_dropdowns:
 ##          external_url: http://idratherbewriting.com/category-jekyll/
     - title: Campaigns
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
         - title: PFS 1st Ed
           url: /pfs1_landing_page.html
         - title: SFS

@@ -21,14 +21,36 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?194
     wiki: https://pathfinderwiki.com/wiki/Weapon_in_the_Rift
     tier: 5-9
+  - title: pfs1-05-24
+    number: 05-24
+    name: Assault on the Wound
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: pfs1_0524.html
+    productpage: http://paizo.com/products/btpy96ic?Pathfinder-Society-Scenario-5-24-Assault-on-the-Wound
+    gmdiscussion: http://paizo.com/threads/rzs2r8ky?524-Assault-on-the-Wound
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?205
+    wiki: https://pathfinderwiki.com/wiki/Assault_on_the_Wound
+    tier: 3-7
   - title: sfs-01-01
     number: 01-01
     name: The Commencement
     campaign: SFS
-    author: x
+    author: Eleanor Ferron
     thissite: sfs_0101.html
     productpage: http://paizo.com/products/btpy9tsw?Starfinder-Society-Roleplaying-Guild-Scenario-101-The-Commencement
     gmdiscussion: http://paizo.com/threads/rzs2ujwb?SFS-101-The-Commencement#1
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?378
     wiki: https://starfinderwiki.com/sf/The_Commencement
     tier: 1-2
+  - title: sfs-01-05
+    number: 01-05
+    name: The First Mandate
+    campaign: SFS
+    author: Lyz Liddell
+    thissite: sfs_0105.html
+    productpage: http://paizo.com/products/btpy9wet?Starfinder-Society-Roleplaying-Guild-Scenario-105-The-First-Mandate
+    gmdiscussion: http://paizo.com/threads/rzs2uphr?SFS-105-The-First-Mandate
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?394
+    wiki: https://starfinderwiki.com/sf/The_First_Mandate
+    tier: 1-4

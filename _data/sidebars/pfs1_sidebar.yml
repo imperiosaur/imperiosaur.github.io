@@ -42,3 +42,7 @@ entries:
     - title: 05-13 Weapon in the Rift
       url: /pfs1_0513.html
       output: web
+
+    - title: 05-24 Assault on the Wound
+      url: /pfs1_0524.html
+      output: web
