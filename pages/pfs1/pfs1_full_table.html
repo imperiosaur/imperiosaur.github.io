@@ -3,15 +3,22 @@ title: PFS Scenarios
 keywords: mydoc
 sidebar: pfs1_sidebar
 toc: false
-permalink: pfs1_landing_page.html
+permalink: pfs1_full_table.html
 folder: pfs
 ---
 
 <table>
 {% for entry in site.data.scenarios.entries %}
-   {% if entry.campaign == "PFS" and entry.thissite != "none" %}
+   {% if entry.campaign == "PFS" %}
      <tr>
-       <td> <a href="{{entry.thissite}}"> {{entry.number}} {{entry.name}}</a> </td>
+       <td>
+         {% if entry.thissite == "none" %}
+            {{entry.number}} {{entry.name}}
+         {% endif %}
+         {% if entry.thissite != "none" %}
+            <a href="{{entry.thissite}}"> {{entry.number}} {{entry.name}}</a>
+         {% endif %}
+       </td>
        <td> <a href="{{entry.productpage}}"> Product Page</a> </td>
        <td> <a href="{{entry.gmdiscussion}}"> GM Discussion</a> </td>
        <td> <a href="{{entry.pfsprep}}"> PFS Prep</a> </td>
@@ -21,4 +28,4 @@ folder: pfs
 {% endfor %}
 </table>
 
-<a href="pfs1_full_table.html"> Full Linked Table </a>
+<a href="pfs1_landing_page.html"> Article only table </a>

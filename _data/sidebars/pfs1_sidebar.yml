@@ -26,6 +26,9 @@ entries:
     - title: PFS 1 TOC
       url: /pfs1_landing_page.html
       output: web
+    - title: PFS 1 Full Table
+      url: /pfs1_full_table.html
+      output: web
 
   - title: Season 4
     output: web, pdf

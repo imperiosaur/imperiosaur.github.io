@@ -1,4 +1,842 @@
 entries:
+  - title: pfs1-00-01
+    number: 00-01
+    name: Silent Tide
+    campaign: PFS
+    author: Michael Kortes
+    thissite: none
+    productpage: http://paizo.com/products/btpy84k0?Pathfinder-Society-Scenario-1-Silent-Tide
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?42
+    wiki: https://pathfinderwiki.com/wiki/Silent_Tide_(scenario)
+    tier: 1-5
+  - title: pfs1-00-02
+    number: 00-02
+    name: The Hydra's Fang Incident
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy84k1?Pathfinder-Society-Scenario-2-The-Hydras-Fang-Incident
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?43
+    wiki: https://pathfinderwiki.com/wiki/The_Hydra%27s_Fang_Incident
+    tier: 1-5
+  - title: pfs1-00-03
+    number: 00-03
+    name: Murder on the Silken Caravan
+    campaign: PFS
+    author: Greg A. Vaughan
+    thissite: none
+    productpage: http://paizo.com/products/btpy84k2?Pathfinder-Society-Scenario-3-Murder-on-the-Silken-Caravan
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?44
+    wiki: https://pathfinderwiki.com/wiki/Murder_on_the_Silken_Caravan
+    tier: 1-5
+  - title: pfs1-00-04
+    number: 00-04
+    name: The Frozen Fingers of Midnight
+    campaign: PFS
+    author: Craig Shackleton
+    thissite: none
+    productpage: http://paizo.com/products/btpy84k3?Pathfinder-Society-Scenario-4-The-Frozen-Fingers-of-Midnight
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?45
+    wiki: https://pathfinderwiki.com/wiki/The_Frozen_Fingers_of_Midnight
+    tier: 1-5
+  - title: pfs1-00-05
+    number: 00-05
+    name: Mists of Mwangi
+    campaign: PFS
+    author: Nicolas Logue
+    thissite: none
+    productpage: http://paizo.com/products/btpy8530?Pathfinder-Society-Scenario-5-Mists-of-Mwangi
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?46
+    wiki: https://pathfinderwiki.com/wiki/Mists_of_Mwangi
+    tier: 1-5
+  - title: pfs1-00-06
+    number: 00-06
+    name: Black Waters
+    campaign: PFS
+    author: Tim and Eileen Connors
+    thissite: none
+    productpage: http://paizo.com/products/btpy8531?Pathfinder-Society-Scenario-6-Black-Waters
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?47
+    wiki: https://pathfinderwiki.com/wiki/Black_Waters
+    tier: 1-5
+  - title: pfs1-00-07
+    number: 00-07
+    name: Among the Living
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy85p3?Pathfinder-Society-Scenario-7-Among-the-Living
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?48
+    wiki: https://pathfinderwiki.com/wiki/Among_the_Living
+    tier: 1-7
+  - title: pfs1-00-08
+    number: 00-08
+    name: Slave Pits of Absalom
+    campaign: PFS
+    author: Lou Agresta
+    thissite: none
+    productpage: http://paizo.com/products/btpy85p4?Pathfinder-Society-Scenario-8-Slave-Pits-of-Absalom
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?49
+    wiki: https://pathfinderwiki.com/wiki/Slave_Pits_of_Absalom
+    tier: 1-5
+  - title: pfs1-00-13
+    number: 00-13
+    name: The Prince of Augustana
+    campaign: PFS
+    author: Craig Shackleton
+    thissite: none
+    productpage: http://paizo.com/products/btpy870a?Pathfinder-Society-Scenario-13-The-Prince-of-Augustana
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?54
+    wiki: https://pathfinderwiki.com/wiki/The_Prince_of_Augustana
+    tier: 1-5
+  - title: pfs1-00-14
+    number: 00-14
+    name: The Many Fortunes of Grandmaster Torch
+    campaign: PFS
+    author: Jonathan H. Keith
+    thissite: none
+    productpage: http://paizo.com/products/btpy870b?Pathfinder-Society-Scenario-14-The-Many-Fortunes-of-Grandmaster-Torch
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?55
+    wiki: https://pathfinderwiki.com/wiki/The_Many_Fortunes_of_Grandmaster_Torch
+    tier: 1-7
+  - title: pfs1-00-16
+    number: 00-16
+    name: To Scale the Dragon
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy87ja?Pathfinder-Society-Scenario-16-To-Scale-the-Dragon
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?57
+    wiki: https://pathfinderwiki.com/wiki/To_Scale_the_Dragon
+    tier: 5-9
+  - title: pfs1-00-17
+    number: 00-17
+    name: Perils of the Pirate Pact
+    campaign: PFS
+    author: Matthieu Dayon
+    thissite: none
+    productpage: http://paizo.com/products/btpy87or?Pathfinder-Society-Scenario-17-Perils-of-the-Pirate-Pact
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?58
+    wiki: https://pathfinderwiki.com/wiki/Perils_of_the_Pirate_Pact
+    tier: 1-7
+  - title: pfs1-00-20
+    number: 00-20
+    name: King Xeros of Old Azlant
+    campaign: PFS
+    author: Greg A. Vaughan
+    thissite: none
+    productpage: http://paizo.com/products/btpy884x?Pathfinder-Society-Scenario-20-King-Xeros-of-Old-Azlant
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?61
+    wiki: https://pathfinderwiki.com/wiki/King_Xeros_of_Old_Azlant
+    tier: 7-11
+  - title: pfs1-00-22
+    number: 00-22
+    name: Fingerprints of the Fiend
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy88lm?Pathfinder-Society-Scenario-22-Fingerprints-of-the-Fiend
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?63
+    wiki: https://pathfinderwiki.com/wiki/Fingerprints_of_the_Fiend
+    tier: 7-11
+  - title: pfs1-00-23
+    number: 00-23
+    name: Tide of Morning
+    campaign: PFS
+    author: Steven Robert
+    thissite: none
+    productpage: http://paizo.com/products/btpy88sx?Pathfinder-Society-Scenario-23-Tide-of-Morning
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?64
+    wiki: https://pathfinderwiki.com/wiki/Tide_of_Morning
+    tier: 1-5
+  - title: pfs1-00-24
+    number: 00-24
+    name: Decline of Glory
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy88sy?Pathfinder-Society-Scenario-24-Decline-of-Glory
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?65
+    wiki: https://pathfinderwiki.com/wiki/Decline_of_Glory
+    tier: 1-7
+  - title: pfs1-00-26
+    number: 00-26
+    name: Lost at Bitter End
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy88t0?Pathfinder-Society-Scenario-26-Lost-at-Bitter-End
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?67
+    wiki: https://pathfinderwiki.com/wiki/Lost_at_Bitter_End
+    tier: 7-11
+  - title: pfs1-00-27
+    number: 00-27
+    name: Our Lady of Silver
+    campaign: PFS
+    author: James F. MacKenzie
+    thissite: none
+    productpage: http://paizo.com/products/btpy89hb?Pathfinder-Society-Scenario-27-Our-Lady-of-Silver
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?69
+    wiki: https://pathfinderwiki.com/wiki/Our_Lady_of_Silver
+    tier: 5-9
+  - title: pfs1-00-28
+    number: 00-28
+    name: Lyrics of Extincton
+    campaign: PFS
+    author: Elizabeth Leib
+    thissite: none
+    productpage: http://paizo.com/products/btpy89hc?Pathfinder-Society-Scenario-28-Lyrics-of-Extinction
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?70
+    wiki: https://pathfinderwiki.com/wiki/Lyrics_of_Extinction
+    tier: 7-11
+  - title: pfs1-01-29
+    number: 01-29
+    name: >
+      The Devil We Know—Part I: Shipyard Rats
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy89kb?Pathfinder-Society-Scenario-29-The-Devil-We-Know-Part-I-Shipyard-Rats
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?71
+    wiki: https://pathfinderwiki.com/wiki/Shipyard_Rats
+    tier: 1-7
+  - title: pfs1-01-30
+    number: 01-30
+    name: >
+      The Devil We Know—Part II: Cassomir's Locker
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy89kc?Pathfinder-Society-Scenario-30-The-Devil-We-Know-Part-II-Cassomirs-Locker
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?72
+    wiki: https://pathfinderwiki.com/wiki/Cassomir%27s_Locker
+    tier: 1-7
+  - title: pfs1-01-31
+    number: 01-31
+    name: Sniper in the Deep
+    campaign: PFS
+    author: David Eitelbach and Hank Woon
+    thissite: none
+    productpage: http://paizo.com/products/btpy89kd?Pathfinder-Society-Scenario-31-Sniper-in-the-Deep
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?73
+    wiki: https://pathfinderwiki.com/wiki/Sniper_in_the_Deep
+    tier: 5-9
+  - title: pfs1-01-32
+    number: 01-32
+    name: Drow of the Darklands Pyramid
+    campaign: PFS
+    author: Sean K Reynolds
+    thissite: none
+    productpage: http://paizo.com/products/btpy89ke?Pathfinder-Society-Scenario-32-Drow-of-the-Darklands-Pyramid
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?74
+    wiki: https://pathfinderwiki.com/wiki/Drow_of_the_Darklands_Pyramid
+    tier: 7-11
+  - title: pfs1-01-33
+    number: 01-33
+    name: Assault on the Kingdom of the Impossible
+    campaign: PFS
+    author: Craig Shackleton
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ara?Pathfinder-Society-Scenario-33-Assault-on-the-Kingdom-of-the-Impossible
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?75
+    wiki: https://pathfinderwiki.com/wiki/Assault_on_the_Kingdom_of_the_Impossible
+    tier: 1-5
+  - title: pfs1-01-34
+    number: 01-34
+    name: Encounter at the Drowning Stones
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8arb?Pathfinder-Society-Scenario-34-Encounter-at-the-Drowning-Stones
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?76
+    wiki: https://pathfinderwiki.com/wiki/Encounter_at_the_Drowning_Stones
+    tier: 7-11
+  - title: pfs1-01-35
+    number: 01-35
+    name: Voice in the Void
+    campaign: PFS
+    author: Rob McCreary
+    thissite: none
+    productpage: http://paizo.com/products/btpy8arc?Pathfinder-Society-Scenario-35-Voice-in-the-Void
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?77
+    wiki: https://pathfinderwiki.com/wiki/Voice_in_the_Void
+    tier: 1-7
+  - title: pfs1-01-36
+    number: 01-36
+    name: >
+      Echoes of the Everwar—Part I: The Prisoner of Skull Hill
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ard?Pathfinder-Society-Scenario-36-Echoes-of-the-Everwar-Part-I-The-Prisoner-of-Skull-Hill
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?78
+    wiki: https://pathfinderwiki.com/wiki/The_Prisoner_of_Skull_Hill
+    tier: 7-11
+  - title: pfs1-01-37
+    number: 01-37
+    name: The Beggar's Pearl
+    campaign: PFS
+    author: James F. MacKenzie
+    thissite: none
+    productpage: http://paizo.com/products/btpy8are?Pathfinder-Society-Scenario-37-The-Beggars-Pearl
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?79
+    wiki: https://pathfinderwiki.com/wiki/The_Beggar%27s_Pearl
+    tier: 1-7
+  - title: pfs1-01-38
+    number: 01-38
+    name: No Plunder No Pay
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8arf?Pathfinder-Society-Scenario-38-No-Plunder-No-Pay
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?80
+    wiki: https://pathfinderwiki.com/wiki/No_Plunder,_No_Pay
+    tier: 7-11
+  - title: pfs1-01-39
+    number: 01-39
+    name: The Citadel of Flame
+    campaign: PFS
+    author: Steven Robert
+    thissite: none
+    productpage: http://paizo.com/products/btpy8arg?Pathfinder-Society-Scenario-39-The-Citadel-of-Flame
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?81
+    wiki: https://pathfinderwiki.com/wiki/The_Citadel_of_Flame
+    tier: 1-5
+  - title: pfs1-01-40
+    number: 01-40
+    name: Hall of Drunken Heroes
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8arh?Pathfinder-Society-Scenario-40-Hall-of-Drunken-Heroes
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?82
+    wiki: https://pathfinderwiki.com/wiki/Hall_of_Drunken_Heroes
+    tier: 7-11
+  - title: pfs1-01-41
+    number: 01-41
+    name: >
+      The Devil We Know—Part III: Crypt of Fools
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ari?Pathfinder-Society-Scenario-41-The-Devil-We-Know-Part-III-Crypt-of-Fools
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?83
+    wiki: https://pathfinderwiki.com/wiki/Crypt_of_Fools_(scenario)
+    tier: 1-7
+  - title: pfs1-01-42
+    number: 01-42
+    name: >
+      Echoes of the Everwar—Part II: The Watcher of the Ages
+    campaign: PFS
+    author: Greg A. Vaughan
+    thissite: none
+    productpage: http://paizo.com/products/btpy8arj?Pathfinder-Society-Scenario-42-Echoes-of-the-Everwar-Part-II-The-Watcher-of-Ages
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?84
+    wiki: https://pathfinderwiki.com/wiki/The_Watcher_of_Ages
+    tier: 7-11
+  - title: pfs1-01-43
+    number: 01-43
+    name: The Pallid Plague
+    campaign: PFS
+    author: Mark Moreland
+    thissite: none
+    productpage: http://paizo.com/products/btpy8bu8?Pathfinder-Society-Scenario-43-The-Pallid-Plague
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?85
+    wiki: https://pathfinderwiki.com/wiki/The_Pallid_Plague
+    tier: 1-7
+  - title: pfs1-01-44
+    number: 01-44
+    name: >
+      Echoes of the Everwar—Part III: Terror at Whistledown
+    campaign: PFS
+    author: Hank Woon
+    thissite: none
+    productpage: http://paizo.com/products/btpy8bu9?Pathfinder-Society-Scenario-44-Echoes-of-the-Everwar-Part-III-Terror-at-Whistledown
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?86
+    wiki: https://pathfinderwiki.com/wiki/Terror_at_Whistledown
+    tier: 7-11
+  - title: pfs1-01-45
+    number: 01-45
+    name: Delirium's Tangle
+    campaign: PFS
+    author: Crystal Frasier
+    thissite: none
+    productpage: http://paizo.com/products/btpy8bua?Pathfinder-Society-Scenario-45-Deliriums-Tangle
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?87
+    wiki: https://pathfinderwiki.com/wiki/Delirium%27s_Tangle
+    tier: 1-5
+  - title: pfs1-01-46
+    number: 01-46
+    name: >
+      Eyes of the Ten—Part I: Requiem for the Red Raven
+    campaign: PFS
+    author: Erik Mona
+    thissite: none
+    productpage: http://paizo.com/products/btpy8bub?Pathfinder-Society-Scenario-46-Eyes-of-the-Ten-Part-I-Requiem-for-the-Red-Raven
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?88
+    wiki: https://pathfinderwiki.com/wiki/Requiem_for_the_Red_Raven
+    tier: 12
+  - title: pfs1-01-47
+    number: 01-47
+    name: The Darkest Vengeance
+    campaign: PFS
+    author: Tim Hitchcock and Mark Moreland
+    thissite: none
+    productpage: http://paizo.com/products/btpy8buc?Pathfinder-Society-Scenario-47-The-Darkest-Vengeance
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?89
+    wiki: https://pathfinderwiki.com/wiki/The_Darkest_Vengeance
+    tier: 1-7
+  - title: pfs1-01-48
+    number: 01-48
+    name: >
+      The Devil We May Know—Part IV: Rules of the Swift
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8buc?Pathfinder-Society-Scenario-47-The-Darkest-Vengeance
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?90
+    wiki: https://pathfinderwiki.com/wiki/The_Rules_of_the_Swift
+    tier: 1-7
+  - title: pfs1-01-49
+    number: 01-49
+    name: Among the Dead
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8dag?Pathfinder-Society-Scenario-49-Among-the-Dead
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?91
+    wiki: https://pathfinderwiki.com/wiki/Among_the_Dead
+    tier: 1-7
+  - title: pfs1-01-50
+    number: 01-50
+    name: Fortune's Blight
+    campaign: PFS
+    author: Adam Daigle
+    thissite: none
+    productpage: http://paizo.com/products/btpy8dah?Pathfinder-Society-Scenario-50-Fortunes-Blight
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?91
+    wiki: https://pathfinderwiki.com/wiki/Fortune%27s_Blight
+    tier: 5-9
+  - title: pfs1-01-51
+    number: 01-51
+    name: >
+      The City of Strangers—Part I: The Shadow Gambit
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8dai?Pathfinder-Society-Scenario-51-The-City-of-Strangers-Part-I-The-Shadow-Gambit
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?93
+    wiki: https://pathfinderwiki.com/wiki/The_Shadow_Gambit
+    tier: 1-7
+  - title: pfs1-01-52
+    number: 01-52
+    name: >
+      The City of Strangers—Part II: The Twofold Demise
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8daj?Pathfinder-Society-Scenario-52-The-City-of-Strangers-Part-II-The-Twofold-Demise
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?94
+    wiki: https://pathfinderwiki.com/wiki/The_Twofold_Demise
+    tier: 1-7
+  - title: pfs1-01-53
+    number: 01-53
+    name: >
+      Echoes of the Everwar—Part IV: The Faithless Dead
+    campaign: PFS
+    author: Neil Spicer
+    thissite: none
+    productpage: http://paizo.com/products/btpy8dak?Pathfinder-Society-Scenario-53-Echoes-of-the-Everwar-Part-IV-The-Faithless-Dead
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?95
+    wiki: https://pathfinderwiki.com/wiki/The_Faithless_Dead
+    tier: 1-7
+  - title: pfs1-01-54
+    number: 01-54
+    name: >
+      Eyes of the Ten—Part II: The Maze of the Open Road
+    campaign: PFS
+    author: Mark Moreland
+    thissite: none
+    productpage: http://paizo.com/products/btpy8dal?Pathfinder-Society-Scenario-54-Eyes-of-the-Ten-Part-II-The-Maze-of-the-Open-Road
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?96
+    wiki: https://pathfinderwiki.com/wiki/The_Maze_of_the_Open_Road
+    tier: 12
+  - title: pfs1-01-55
+    number: 01-55
+    name: The Infernal Vault
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g53?Pathfinder-Society-Scenario-55-The-Infernal-Vault
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?97
+    wiki: https://pathfinderwiki.com/wiki/The_Infernal_Vault
+    tier: 1-7
+  - title: pfs1-01-56
+    number: 01-56
+    name: The Jester's Fraud
+    campaign: PFS
+    author: James F. MacKenzie
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g54?Pathfinder-Society-Scenario-56-The-Jesters-Fraud
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?98
+    wiki: https://pathfinderwiki.com/wiki/The_Jester%27s_Fraud
+    tier: 5-9
+  - title: pfs1-02-00
+    number: 02-00
+    name: Year of the Shadow Lodge
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g6e?Pathfinder-Society-Special-Year-of-the-Shadow-Lodge
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?99
+    wiki: https://pathfinderwiki.com/wiki/Year_of_the_Shadow_Lodge_(scenario)
+    tier: 1-11
+  - title: pfs1-02-01
+    number: 02-01
+    name: >
+      Before the Dawn-Part I: The Bloodcove Disguise
+    campaign: PFS
+    author: Crystal Frasier
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1n?Pathfinder-Society-Scenario-201-Before-the-Dawn-Part-I-The-Bloodcove-Disguise
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?100
+    wiki: https://pathfinderwiki.com/wiki/The_Bloodcove_Disguise
+    tier: 1-7
+  - title: pfs1-02-02
+    number: 02-02
+    name: >
+      Before the Dawn-Part II: Rescue at Azlant Ridge
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1o?Pathfinder-Society-Scenario-202-Before-the-Dawn-Part-II-Rescue-at-Azlant-Ridge
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?101
+    wiki: https://pathfinderwiki.com/wiki/Rescue_at_Azlant_Ridge
+    tier: 1-7
+  - title: pfs1-02-03
+    number: 02-03
+    name: The Rebel's Ransom
+    campaign: PFS
+    author: Jason Bulhman
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1p?Pathfinder-Society-Scenario-203-The-Rebels-Ransom
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?102
+    wiki: https://pathfinderwiki.com/wiki/The_Rebel%27s_Ransom
+    tier: 5-9
+  - title: pfs1-02-04
+    number: 02-04
+    name: Shadows Fall on Absalom
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1q?Pathfinder-Society-Scenario-204-Shadows-Fall-on-Absalom
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?103
+    wiki: https://pathfinderwiki.com/wiki/Shadows_Fall_on_Absalom
+    tier: 7-11
+  - title: pfs1-02-05
+    number: 02-05
+    name: >
+      Eyes of the Ten-Part III: Red Revolution
+    campaign: PFS
+    author:
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1r?Pathfinder-Society-Scenario-205-Eyes-of-the-Ten-Part-III-Red-Revolution
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?104
+    wiki: https://pathfinderwiki.com/wiki/Red_Revolution_(scenario)
+    tier: 12
+  - title: pfs1-02-06
+    number: 02-06
+    name: >
+      The Heresy of Man-Part I: The First Heresy
+    campaign: PFS
+    author: Greg A. Vaughan and Kevin Wright
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1s?Pathfinder-Society-Scenario-206-The-Heresy-of-Man-Part-I-The-First-Heresy
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?105
+    wiki: https://pathfinderwiki.com/wiki/The_First_Heresy
+    tier: 5-9
+  - title: pfs1-02-07
+    number: 02-07
+    name: >
+      The Heresy of Man-Part II: Where Dark Things Sleep
+    campaign: PFS
+    author: Greg A. Vaughn and Kevin Wright
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1t?Pathfinder-Society-Scenario-207-The-Heresy-of-Man-Part-II-Where-Dark-Things-Sleep
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?106
+    wiki: https://pathfinderwiki.com/wiki/Where_Dark_Things_Sleep
+    tier: 5-9
+  - title: pfs1-02-08
+    number: 02-08
+    name: The Sarkorian Prophecy
+    campaign: PFS
+    author: Mark Moreland
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1u?Pathfinder-Society-Scenario-208-The-Sarkorian-Prophecy
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?107
+    wiki: https://pathfinderwiki.com/wiki/The_Sarkorian_Prophecy
+    tier: 7-11
+  - title: pfs1-02-09
+    number: 02-09
+    name: >
+      The Heresy of Man-Part III: Beneath Forgotten Sands
+    campaign: PFS
+    author: Greg A. Vaughan and Kevin Wright
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1v?Pathfinder-Society-Scenario-209-The-Heresy-of-Man-Part-III-Beneath-Forgotten-Sands
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?108
+    wiki: https://pathfinderwiki.com/wiki/Beneath_Forgotten_Sands
+    tier: 5-9
+  - title: pfs1-02-10
+    number: 02-10
+    name: Fury of the Fiend
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8g1w?Pathfinder-Society-Scenario-210-Fury-of-the-Fiend
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?109
+    wiki: https://pathfinderwiki.com/wiki/Fury_of_the_Fiend
+    tier: 7-11
+  - title: pfs1-02-11
+    number: 02-11
+    name: The Penumbral Accords
+    campaign: PFS
+    author: Owen K.C. Stephens
+    thissite: none
+    productpage: http://paizo.com/products/btpy8h6n?Pathfinder-Society-Scenario-211-The-Penumbral-Accords
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?110
+    wiki: https://pathfinderwiki.com/wiki/The_Penumbral_Accords
+    tier: 1-5
+  - title: pfs1-02-12
+    number: 02-12
+    name: Below the Silver Tarn
+    campaign: PFS
+    author: Crystal Frasier
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gtu?Pathfinder-Society-Scenario-212-Below-the-Silver-Tarn
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?111
+    wiki: https://pathfinderwiki.com/wiki/Below_the_Silver_Tarn
+    tier: 7-11
+  - title: pfs1-02-13
+    number: 02-13
+    name: Murder on the Throaty Mermaid
+    campaign: PFS
+    author: Mark Moreland
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gtv?Pathfinder-Society-Scenario-213-Murder-on-the-Throaty-Mermaid
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?112
+    wiki: https://pathfinderwiki.com/wiki/Murder_on_the_Throaty_Mermaid
+    tier: 1-5
+  - title: pfs1-02-14
+    number: 02-14
+    name: The Chasm of Screams
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gtw?Pathfinder-Society-Scenario-214-The-Chasm-of-Screams
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?113
+    wiki: https://pathfinderwiki.com/wiki/The_Chasm_of_Screams
+    tier: 7-11
+  - title: pfs1-02-15
+    number: 02-15
+    name: >
+      Shadoes of Ice-Part I: Written in Blood
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gtx?Pathfinder-Society-Scenario-215-Shades-of-Ice-Part-I-Written-in-Blood
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?114
+    wiki: https://pathfinderwiki.com/wiki/Written_in_Blood
+    tier: 1-5
+  - title: pfs1-02-16
+    number: 02-16
+    name: The Flesh Collector
+    campaign: PFS
+    author: Martin Long
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gty?Pathfinder-Society-Scenario-216-The-Flesh-Collector
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?115
+    wiki: https://pathfinderwiki.com/wiki/The_Flesh_Collector
+    tier: 7-11
+  - title: pfs1-02-17
+    number: 02-17
+    name: >
+      Shades of Ice-Part II: Exiles of Winter
+    campaign: PFS
+    author: Joshua J. Frost
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gtz?Pathfinder-Society-Scenario-217-Shades-of-Ice-Part-II-Exiles-of-Winter
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?116
+    wiki: https://pathfinderwiki.com/wiki/Exiles_of_Winter
+    tier: 1-5
+  - title: pfs1-02-18
+    number: 02-18
+    name: The Forbidden Furnace of Forgotten Koor
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8i11?Pathfinder-Society-Scenario-218-The-Forbidden-Furnace-of-Forgotten-Koor
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?117
+    wiki: https://pathfinderwiki.com/wiki/The_Forbidden_Furnace_of_Forgotten_Koor
+    tier: 7-11
+  - title: pfs1-02-19
+    number: 02-19
+    name: >
+      Shades of Ice-Part III: Keep of the Huscarl King
+    campaign: PFS
+    author: Jesse Benner
+    thissite: none
+    productpage: http://paizo.com/products/btpy8i12?Pathfinder-Society-Scenario-219-Shades-of-Ice-Part-III-Keep-of-the-Huscarl-King
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?118
+    wiki: https://pathfinderwiki.com/wiki/Keep_of_the_Huscarl_King
+    tier: 1-5
+  - title: pfs1-02-20
+    number: 02-20
+    name: Wrath of the Accursed
+    campaign: PFS
+    author: Matt Goodall
+    thissite: none
+    productpage: http://paizo.com/products/btpy8i13?Pathfinder-Society-Scenario-220-Wrath-of-the-Accursed
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?119
+    wiki: https://pathfinderwiki.com/wiki/Wrath_of_the_Accursed
+    tier: 7-11
+  - title: pfs1-02-21
+    number: 02-21
+    name: The Dalsine Affair
+    campaign: PFS
+    author: Alex Greenshields
+    thissite: none
+    productpage: http://paizo.com/products/btpy8i14?Pathfinder-Society-Scenario-221-The-Dalsine-Affair
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?120
+    wiki: https://pathfinderwiki.com/wiki/The_Dalsine_Affair
+    tier: 1-7
+  - title: pfs1-02-22
+    number: 02-22
+    name: >
+      Eyes of the Ten-Part IV: Nothing Ventured, Nothing Gained
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8gtt?Pathfinder-Society-Scenario-222-Eyes-of-the-Ten-Part-IV-Nothing-Ventured-Nothing-Gained
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?121
+    wiki: https://pathfinderwiki.com/wiki/Nothing_Ventured,_Nothing_Gained
+    tier: 12
+  - title: pfs1-02-23
+    number: 02-23
+    name: >
+      Shadow's Last Stand-Part I: At Shadow's Door
+    campaign: PFS
+    author: Steven Robert
+    thissite: none
+    productpage: http://paizo.com/products/btpy8jon?Pathfinder-Society-Scenario-223-Shadows-Last-Stand-Part-I-At-Shadows-Door
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?122
+    wiki: https://pathfinderwiki.com/wiki/At_Shadow%27s_Door
+    tier: 1-7
+  - title: pfs1-02-24
+    number: 02-24
+    name: >
+      Shadow's Last Stand-Part II: Web of Corruption
+    campaign: PFS
+    author: Patrick Renie
+    thissite: none
+    productpage: http://paizo.com/products/btpy8joo?Pathfinder-Society-Scenario-224-Shadows-Last-Stand-Part-II-Web-of-Corruption
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?123
+    wiki: https://pathfinderwiki.com/wiki/Web_of_Corruption
+    tier: 1-7
+  - title: pfs1-02-25
+    number: 02-25
+    name: You Only Die Twice
+    campaign: PFS
+    author: Hyrum Savage
+    thissite: none
+    productpage: http://paizo.com/products/btpy8jop?Pathfinder-Society-Scenario-225-You-Only-Die-Twice
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?124
+    wiki: https://pathfinderwiki.com/wiki/You_Only_Die_Twice
+    tier: 5-9
+  - title: pfs1-02-26
+    number: 02-26
+    name: The Mantis's Prey
+    campaign: PFS
+    author: Michael Kortes
+    thissite: none
+    productpage: http://paizo.com/products/btpy8joq?Pathfinder-Society-Scenario-226-The-Mantiss-Prey
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?125
+    wiki: https://pathfinderwiki.com/wiki/The_Mantis%27s_Prey
+    tier: 7-11
   - title: pfs1-04-03
     number: 04-03
     name: The Golemworks Incident
