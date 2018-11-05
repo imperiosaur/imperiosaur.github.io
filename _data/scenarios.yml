@@ -1875,7 +1875,8 @@ entries:
     tier: 3-7
   - title: pfs1-06-12
     number: 06-12
-    name: Scions of the Sky Key, Part 1: On Sharrowsmith's Trail
+    name: >
+      Scions of the Sky Key, Part 1: On Sharrowsmith's Trail
     campaign: PFS
     author: Robert Brookes
     thissite: none
@@ -1897,7 +1898,8 @@ entries:
     tier: 7-11
   - title: pfs1-06-14
     number: 06-14
-    name: Scions of the Sky Key, Part 2: Kaava Quarry
+    name: >
+      Scions of the Sky Key, Part 2: Kaava Quarry
     campaign: PFS
     author: Mike Kimmel
     thissite: none
@@ -1919,7 +1921,8 @@ entries:
     tier: 1-5
   - title: pfs1-06-16
     number: 06-16
-    name: Scions of the Sky Key, Part 3: The Golden Guardian
+    name: >
+      Scions of the Sky Key, Part 3: The Golden Guardian
     campaign: PFS
     author: Mikko Kallio
     thissite: none
