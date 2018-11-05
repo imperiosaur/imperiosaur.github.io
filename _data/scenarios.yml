@@ -837,6 +837,343 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?125
     wiki: https://pathfinderwiki.com/wiki/The_Mantis%27s_Prey
     tier: 7-11
+  - title: pfs1-03-00
+    number: 03-00
+    name: Blood Under Absalom
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8lwi?Pathfinder-Society-Special-Blood-Under-Absalom
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?152
+    wiki: https://pathfinderwiki.com/wiki/Blood_Under_Absalom
+    tier: 1-11
+  - title: pfs1-03-01
+    number: 03-01
+    name: The Frostfur Captives
+    campaign: PFS
+    author: Jim Groves
+    thissite: none
+    productpage: http://paizo.com/products/btpy8kab?Pathfinder-Society-Scenario-301-The-Frostfur-Captives
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?126
+    wiki: https://pathfinderwiki.com/wiki/The_Frostfur_Captives
+    tier: 1-5
+  - title: pfs1-03-02
+    number: 03-02
+    name: Sewer Dragons of Absalom
+    campaign: PFS
+    author: Dennis Baker
+    thissite: none
+    productpage: http://paizo.com/products/btpy8kac?Pathfinder-Society-Scenario-302-Sewer-Dragons-of-Absalom
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?127
+    wiki: https://pathfinderwiki.com/wiki/Sewer_Dragons_of_Absalom
+    tier: 3-7
+  - title: pfs1-03-03
+    number: 03-03
+    name: The Ghenett Manor Gauntlet
+    campaign: PFS
+    author: Mike Shel
+    thissite: none
+    productpage: http://paizo.com/products/btpy8kad?Pathfinder-Society-Scenario-303-The-Ghenett-Manor-Gauntlet
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?128
+    wiki: https://pathfinderwiki.com/wiki/The_Ghenett_Manor_Gauntlet
+    tier: 5-9
+  - title: pfs1-03-04
+    number: 03-04
+    name: The Kortos Envoy
+    campaign: PFS
+    author: Benjamin Bruck
+    thissite: none
+    productpage: http://paizo.com/products/btpy8kae?Pathfinder-Society-Scenario-304-The-Kortos-Envoy
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?129
+    wiki: https://pathfinderwiki.com/wiki/The_Kortos_Envoy
+    tier: 7-11
+  - title: pfs1-03-05
+    number: 03-05
+    name: Tide of Twilight
+    campaign: PFS
+    author: Ron Lundeen
+    thissite: none
+    productpage: http://paizo.com/products/btpy8lqv?Pathfinder-Society-Scenario-305-Tide-of-Twilight
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?130
+    wiki: https://pathfinderwiki.com/wiki/Tide_of_Twilight
+    tier: 1-5
+  - title: pfs1-03-06
+    number: 03-06
+    name: Song of the Sea Witch
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: http://paizo.com/products/btpy8lqw?Pathfinder-Society-Scenario-306-Song-of-the-Sea-Witch
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?131
+    wiki: https://pathfinderwiki.com/wiki/Song_of_the_Sea_Witch
+    tier: 3-7
+  - title: pfs1-03-07
+    number: 03-07
+    name: Echoes of the Overwatched
+    campaign: PFS
+    author: James F. MacKenzie
+    thissite: none
+    productpage: http://paizo.com/products/btpy8n0m?Pathfinder-Society-Scenario-307-Echoes-of-the-Overwatched
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?132
+    wiki: https://pathfinderwiki.com/wiki/Echoes_of_the_Overwatched
+    tier: 1-5
+  - title: pfs1-03-08
+    number: 03-08
+    name: Among the Gods
+    campaign: PFS
+    author: MIchael Kenway
+    thissite: none
+    productpage: http://paizo.com/products/btpy8n0n?Pathfinder-Society-Scenario-308-Among-the-Gods
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?133
+    wiki: https://pathfinderwiki.com/wiki/Among_the_Gods
+    tier: 3-7
+  - title: pfs1-03-09
+    number: 03-09
+    name: >
+      The Quest for Perfection-Part I: The Edge of Heaven
+    campaign: PFS
+    author: Jerall Toi
+    thissite: none
+    productpage: http://paizo.com/products/btpy8n0o?Pathfinder-Society-Scenario-309-The-Quest-for-Perfection-Part-I-The-Edge-of-Heaven
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?134
+    wiki: https://pathfinderwiki.com/wiki/The_Edge_of_Heaven
+    tier: 1-5
+  - title: pfs1-03-10
+    number: 03-10
+    name: The Immortal Conundrum
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8n0p?Pathfinder-Society-Scenario-310-The-Immortal-Conundrum
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?135
+    wiki: https://pathfinderwiki.com/wiki/The_Immortal_Conundrum
+    tier: 5-9
+  - title: pfs1-03-11
+    number: 03-11
+    name: >
+      The Quest for Perfection-Part II: On Hostile Waters
+    campaign: PFS
+    author: Benjamin Bruck
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ow1?Pathfinder-Society-Scenario-311-The-Quest-for-Perfection-Part-II-On-Hostile-Waters
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?136
+    wiki: https://pathfinderwiki.com/wiki/On_Hostile_Waters
+    tier: 1-5
+  - title: pfs1-03-12
+    number: 03-12
+    name: >
+      Wonders in the Weave-Part I: The Dog Pharaoh's Tomb
+    campaign: PFS
+    author: Jonathan H. Keith
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ow2?Pathfinder-Society-Scenario-312-Wonders-in-the-Weave-Part-I-The-Dog-Pharaohs-Tomb
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?137
+    wiki: https://pathfinderwiki.com/wiki/The_Dog_Pharaoh%27s_Tomb
+    tier: 5-9
+  - title: pfs1-03-13
+    number: 03-13
+    name: >
+      The Quest for Perfection-Part III: Defenders of Nesting Swallow
+    campaign: PFS
+    author: Sean McGowan
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ow3?Pathfinder-Society-Scenario-313-The-Quest-for-Perfection-Part-III-Defenders-of-Nesting-Swallow
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?138
+    wiki: https://pathfinderwiki.com/wiki/Defenders_of_Nesting_Swallow
+    tier: 1-5
+  - title: pfs1-03-14
+    number: 03-14
+    name: >
+      Wonders in the Weave-Part II: Snakes in the Fold
+    campaign: PFS
+    author: Hal Maclean
+    thissite: none
+    productpage: http://paizo.com/products/btpy8ow4?Pathfinder-Society-Scenario-314-Wonders-in-the-Weave-Part-II-Snakes-in-the-Fold
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?139
+    wiki: https://pathfinderwiki.com/wiki/Snakes_in_the_Fold
+    tier: 5-9
+  - title: pfs1-03-15
+    number: 03-15
+    name: The Haunting of Hinojai
+    campaign: PFS
+    author: Jim Groves
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qpu?Pathfinder-Society-Scenario-315-The-Haunting-of-Hinojai
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?140
+    wiki: https://pathfinderwiki.com/wiki/The_Haunting_of_Hinojai
+    tier: 5-9
+  - title: pfs1-03-16
+    number: 03-16
+    name: The Midnight Mauler
+    campaign: PFS
+    author: Crystal Frasier
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qpv?Pathfinder-Society-Scenario-316-The-Midnight-Mauler
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?141
+    wiki: https://pathfinderwiki.com/wiki/The_Midnight_Mauler
+    tier: 3-7
+  - title: pfs1-03-17
+    number: 03-17
+    name: Red Harvest
+    campaign: PFS
+    author: Alex Greenshields
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qpx?Pathfinder-Society-Scenario-317-Red-Harvest
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?142
+    wiki: https://pathfinderwiki.com/wiki/Red_Harvest
+    tier: 7-11
+  - title: pfs1-03-18
+    number: 03-18
+    name: The God's Market Gamble
+    campaign: PFS
+    author: Dennis Baker
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qpy?Pathfinder-Society-Scenario-318-The-Gods-Market-Gamble
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?143
+    wiki: https://pathfinderwiki.com/wiki/The_God%27s_Market_Gamble
+    tier: 1-5
+  - title: pfs1-03-19
+    number: 03-19
+    name: The Icebound Outpost
+    campaign: PFS
+    author: Jeff Erwin
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qpz?Pathfinder-Society-Scenario-319-The-Icebound-Outpost
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?144
+    wiki: https://pathfinderwiki.com/wiki/The_Icebound_Outpost
+    tier: 1-5
+  - title: pfs1-03-20
+    number: 03-20
+    name: >
+      The Rats of Round Mountain-Part I: The Sundered Path
+    campaign: PFS
+    author: Kyle Baird
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qq0?Pathfinder-Society-Scenario-320-The-Rats-of-Round-Mountain-Part-I-The-Sundered-Path
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?145
+    wiki: https://pathfinderwiki.com/wiki/The_Sundered_Path
+    tier: 7-11
+  - title: pfs1-03-21
+    number: 03-21
+    name: The Temple of Empyreal Enlightenment
+    campaign: PFS
+    author: Ron Lundeen
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qq1?Pathfinder-Society-Scenario-321-The-Temple-of-Empyreal-Enlightenment
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?146
+    wiki: https://pathfinderwiki.com/wiki/The_Temple_of_Empyreal_Enlightenment
+    tier: 1-5
+  - title: pfs1-03-22
+    number: 03-22
+    name: >
+      The Rats of Round Mountain-Part II: The Pagoda of the Rat
+    campaign: PFS
+    author: Russ Taylor
+    thissite: none
+    productpage: http://paizo.com/products/btpy8qq2?Pathfinder-Society-Scenario-322-The-Rats-of-Round-Mountain-Part-II-Pagoda-of-the-Rat
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?147
+    wiki: https://pathfinderwiki.com/wiki/Pagoda_of_the_Rat_(scenario)
+    tier: 7-11
+  - title: pfs1-03-23
+    number: 03-23
+    name: The Goblinblood Dead
+    campaign: PFS
+    author: Jerall Toi
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r08?Pathfinder-Society-Scenario-3-23-The-Goblinblood-Dead
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?148
+    wiki: https://pathfinderwiki.com/wiki/The_Goblinblood_Dead
+    tier: 1-5
+  - title: pfs1-03-24
+    number: 03-24
+    name: The Golden Serpent
+    campaign: PFS
+    author: Jim Groves
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r09?Pathfinder-Society-Scenario-3-24-The-Golden-Serpent
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?149
+    wiki: https://pathfinderwiki.com/wiki/The_Golden_Serpent
+    tier: 5-9
+  - title: pfs1-03-25
+    number: 03-25
+    name: Storming the Diamond Gate
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r0a?Pathfinder-Society-Scenario-3-25-Storming-the-Diamond-Gate
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?150
+    wiki: https://pathfinderwiki.com/wiki/Storming_the_Diamond_Gate
+    tier: 3-7
+  - title: pfs1-03-26
+    number: 03-26
+    name: Portal of the Sacred Rune
+    campaign: PFS
+    author: Sean McGowan
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r0b?Pathfinder-Society-Scenario-3-26-Portal-of-the-Sacred-Rune
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?151
+    wiki: https://pathfinderwiki.com/wiki/Portal_of_the_Sacred_Rune
+    tier: 7-11
+  - title: pfs1-04-00
+    number: 04-00
+    name: Race for the Runecarved Key
+    campaign: PFS
+    author: Kyle Baird and Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r0d?Pathfinder-Society-Special-Race-for-the-Runecarved-Key
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?154
+    wiki: https://pathfinderwiki.com/wiki/Race_for_the_Runecarved_Key
+    tier: 1-12+
+  - title: pfs1-04-01
+    number: 04-01
+    name: Rise of the Goblin Guild
+    campaign: PFS
+    author: Matthew Goodall
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r0e?Pathfinder-Society-Scenario-4-01-Rise-of-the-Goblin-Guild
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?155
+    wiki: https://pathfinderwiki.com/wiki/Rise_of_the_Goblin_Guild
+    tier: 1-5
+  - title: pfs1-04-02
+    number: 04-02
+    name: In Wrath's Shadow
+    campaign: PFS
+    author: Mike Shel
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r0c?Pathfinder-Society-Scenario-4-02-In-Wrath-s-Shadow
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?156
+    wiki: https://pathfinderwiki.com/wiki/In_Wrath%27s_Shadow
+    tier: 3-7
   - title: pfs1-04-03
     number: 04-03
     name: The Golemworks Incident
@@ -848,6 +1185,406 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?157
     wiki: https://pathfinderwiki.com/wiki/The_Golemworks_Incident
     tier: 5-9
+  - title: pfs1-04-04
+    number: 04-04
+    name: King of the Storval Stairs
+    campaign: PFS
+    author: Dennis Baker
+    thissite: none
+    productpage: http://paizo.com/products/btpy8r0g?Pathfinder-Society-Scenario-4-04-King-of-the-Storval-Stairs
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?158
+    wiki: https://pathfinderwiki.com/wiki/King_of_the_Storval_Stairs
+    tier: 7-11
+  - title: pfs1-04-05
+    number: 04-05
+    name: The Sanos Abduction
+    campaign: PFS
+    author: Jerome Virnich
+    thissite: none
+    productpage: http://paizo.com/products/btpy8u8r?Pathfinder-Society-Scenario-4-05-The-Sanos-Abduction
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?159
+    wiki: https://pathfinderwiki.com/wiki/The_Sanos_Abduction
+    tier: 3-7
+  - title: pfs1-04-06
+    number: 04-06
+    name: The Green Market
+    campaign: PFS
+    author: Jim Groves
+    thissite: none
+    productpage: http://paizo.com/products/btpy8u8s?Pathfinder-Society-Scenario-4-06-The-Green-Market
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?160
+    wiki: https://pathfinderwiki.com/wiki/The_Green_Market
+    tier: 5-9
+  - title: pfs1-04-07
+    number: 04-07
+    name: Severing Ties
+    campaign: PFS
+    author: Ron Lundeen
+    thissite: none
+    productpage: http://paizo.com/products/btpy8u8t?Pathfinder-Society-Scenario-4-07-Severing-Ties
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?161
+    wiki: https://pathfinderwiki.com/wiki/Severing_Ties
+    tier: 1-5
+  - title: pfs1-04-08
+    number: 04-08
+    name: The Cultist's Kiss
+    campaign: PFS
+    author: Sam Zeitlin
+    thissite: none
+    productpage: http://paizo.com/products/btpy8u8u?Pathfinder-Society-Scenario-4-08-The-Cultists-Kiss
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?162
+    wiki: https://pathfinderwiki.com/wiki/The_Cultist%27s_Kiss
+    tier: 7-11
+  - title: pfs1-04-09
+    number: 04-09
+    name: The Blakros Matrimony
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: http://paizo.com/products/btpy8u8v?Pathfinder-Society-Scenario-4-09-The-Blakros-Matrimony
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?163
+    wiki: https://pathfinderwiki.com/wiki/The_Blakros_Matrimony
+    tier: 3-7
+  - title: pfs1-04-10
+    number: 04-10
+    name: Feast of Sigils
+    campaign: PFS
+    author: Dennis Baker
+    thissite: none
+    productpage: http://paizo.com/products/btpy8u8w?Pathfinder-Society-Scenario-4-10-Feast-of-Sigils
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?164
+    wiki: https://pathfinderwiki.com/wiki/Feast_of_Sigils_(scenario)
+    tier: 7-11
+  - title: pfs1-04-11
+    number: 04-11
+    name: The Disappeared
+    campaign: PFS
+    author: Jonathan H. Keith
+    thissite: none
+    productpage: http://paizo.com/products/btpy8v0h?Pathfinder-Society-Scenario-4-11-The-Disappeared
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?165
+    wiki: https://pathfinderwiki.com/wiki/The_Disappeared
+    tier: 1-5
+  - title: pfs1-04-12
+    number: 04-12
+    name: The Refuge of Time
+    campaign: PFS
+    author: Steve Miller
+    thissite: none
+    productpage: http://paizo.com/products/btpy8v0i?Pathfinder-Society-Scenario-4-12-The-Refuge-of-Time
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?166
+    wiki: https://pathfinderwiki.com/wiki/The_Refuge_of_Time
+    tier: 7-11
+  - title: pfs1-04-13
+    number: 04-13
+    name: Fortress of the Nail
+    campaign: PFS
+    author: Amanda Hamon
+    thissite: none
+    productpage: http://paizo.com/products/btpy8v0j?Pathfinder-Society-Scenario-4-13-Fortress-of-the-Nail
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?167
+    wiki: https://pathfinderwiki.com/wiki/Fortress_of_the_Nail
+    tier: 5-9
+  - title: pfs1-04-14
+    number: 04-14
+    name: My Enemy's Enemy
+    campaign: PFS
+    author: James Olchak
+    thissite: none
+    productpage: http://paizo.com/products/btpy8v0k?Pathfinder-Society-Scenario-4-14-My-Enemys-Enemy
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?168
+    wiki: https://pathfinderwiki.com/wiki/My_Enemy%27s_Enemy
+    tier: 3-7
+  - title: pfs1-04-15
+    number: 04-15
+    name: The Cyphermage Dilemma
+    campaign: PFS
+    author: Patrick Renie
+    thissite: none
+    productpage: http://paizo.com/products/btpy8v0m?Pathfinder-Society-Scenario-4-15-The-Cyphermage-Dilemma
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?169
+    wiki: https://pathfinderwiki.com/wiki/The_Cyphermage_Dilemma
+    tier: 1-5
+  - title: pfs1-04-16
+    number: 04-16
+    name: The Fabric of Reality
+    campaign: PFS
+    author: Tom Philips
+    thissite: none
+    productpage: http://paizo.com/products/btpy8v0n?Pathfinder-Society-Scenario-4-16-The-Fabric-of-Reality
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?170
+    wiki: https://pathfinderwiki.com/wiki/The_Fabric_of_Reality
+    tier: 5-9
+  - title: pfs1-04-17
+    number: 04-17
+    name: Tower of the Ironwood Watch
+    campaign: PFS
+    author: Sam Polak
+    thissite: none
+    productpage: http://paizo.com/products/btpy8wdx?Pathfinder-Society-Scenario-4-17-Tower-of-the-Ironwood-Watch
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?171
+    wiki: https://pathfinderwiki.com/wiki/Tower_of_the_Ironwood_Watch
+    tier: 5-9
+  - title: pfs1-04-18
+    number: 04-18
+    name: The Veteran's Vault
+    campaign: PFS
+    author: Savannah Broadway
+    thissite: none
+    productpage: http://paizo.com/products/btpy8wdy?Pathfinder-Society-Scenario-4-18-The-Veterans-Vault
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?172
+    wiki: https://pathfinderwiki.com/wiki/The_Veteran%27s_Vault
+    tier: 1-5
+  - title: pfs1-04-19
+    number: 04-19
+    name: The Night March of Kalkamedes
+    campaign: PFS
+    author: Michael Kortes
+    thissite: none
+    productpage: http://paizo.com/products/btpy8wdz?Pathfinder-Society-Scenario-4-19-The-Night-March-of-Kalkamedes
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?173
+    wiki: https://pathfinderwiki.com/wiki/The_Night_March_of_Kalkamedes
+    tier: 1-5
+  - title: pfs1-04-20
+    number: 04-20
+    name: Words of the Ancients
+    campaign: PFS
+    author: John Compton
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we0?Pathfinder-Society-Scenario-4-20-Words-of-the-Ancients
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?174
+    wiki: https://pathfinderwiki.com/wiki/Words_of_the_Ancients
+    tier: 7-11
+  - title: pfs1-04-21
+    number: 04-21
+    name: Way of the Kirin
+    campaign: PFS
+    author: Dennis Baker
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we1?Pathfinder-Society-Scenario-4-21-Way-of-the-Kirin
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?175
+    wiki: https://pathfinderwiki.com/wiki/Way_of_the_Kirin
+    tier: 3-7
+  - title: pfs1-04-22
+    number: 04-22
+    name: >
+      Glories of the Past-Part I: Halls of Dwarven Lore
+    campaign: PFS
+    author: Tork Shaw
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we2?Pathfinder-Society-Scenario-4-22-Glories-of-the-Past-Part-I-Halls-of-Dwarven-Lore
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?176
+    wiki: https://pathfinderwiki.com/wiki/Halls_of_Dwarven_Lore
+    tier: 5-9
+  - title: pfs1-04-23
+    number: 04-23
+    name: Rivalry's End
+    campaign: PFS
+    author: Ron Lundeen
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we3?Pathfinder-Society-Scenario-4-23-Rivalrys-End
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?177
+    wiki: https://pathfinderwiki.com/wiki/Rivalry%27s_End
+    tier: 3-7
+  - title: pfs1-04-24
+    number: 04-24
+    name: >
+      Glories of the Past-Part II: The Price of Friendship
+    campaign: PFS
+    author: Christina Stiles
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we4?Pathfinder-Society-Scenario-4-24-Glories-of-the-Past-Part-II-The-Price-of-Friendship
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?178
+    wiki: https://pathfinderwiki.com/wiki/The_Price_of_Friendship
+    tier: 5-9
+  - title: pfs1-04-25
+    number: 04-25
+    name: >
+      Glories of the Past-Part III: The Secrets Stones Keep
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we5?Pathfinder-Society-Scenario-4-25-Glories-of-the-Past-Part-III-The-Secrets-Stones-Keep
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?179
+    wiki: https://pathfinderwiki.com/wiki/The_Secrets_Stones_Keep
+    tier: 5-9
+  - title: pfs1-04-26
+    number: 04-26
+    name: The Waking Rune
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy8we6?Pathfinder-Society-Scenario-4-26-The-Waking-Rune
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?180
+    wiki: https://pathfinderwiki.com/wiki/The_Waking_Rune
+    tier: 7-11
+  - title: pfs1-05-00
+    number: 05-00
+    name: Siege of the Diamond City
+    campaign: PFS
+    author: Thurston Hillman and Jonathan H. Keith
+    thissite: none
+    productpage: http://paizo.com/products/btpy8xki?Pathfinder-Society-Special-Siege-of-the-Diamond-City
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?181
+    wiki: https://pathfinderwiki.com/wiki/Siege_of_the_Diamond_City
+    tier: 1-15
+  - title: pfs1-05-01
+    number: 05-01
+    name: The Glass River Rescue
+    campaign: PFS
+    author: Mike Shel
+    thissite: none
+    productpage: http://paizo.com/products/btpy8xkf?Pathfinder-Society-Scenario-5-01-The-Glass-River-Rescue
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?182
+    wiki: https://pathfinderwiki.com/wiki/The_Glass_River_Rescue
+    tier: 1-5
+  - title: pfs1-05-02
+    number: 05-02
+    name: The Wardstone Patrol
+    campaign: PFS
+    author: Alex Greenshields
+    thissite: none
+    productpage: http://paizo.com/products/btpy8xkg?Pathfinder-Society-Scenario-5-02-The-Wardstone-Patrol
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?183
+    wiki: https://pathfinderwiki.com/wiki/The_Wardstone_Patrol
+    tier: 3-7
+  - title: pfs1-05-03
+    number: 05-03
+    name: The Hellknight's Feast
+    campaign: PFS
+    author: Tom Philips
+    thissite: none
+    productpage: http://paizo.com/products/btpy8xkh?Pathfinder-Society-Scenario-5-03-The-Hellknights-Feast
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?184
+    wiki: https://pathfinderwiki.com/wiki/The_Hellknight%27s_Feast
+    tier: 5-9
+  - title: pfs1-05-04
+    number: 05-04
+    name: The Stolen Heir
+    campaign: PFS
+    author: David N. Ross
+    thissite: none
+    productpage: http://paizo.com/products/btpy90kq?Pathfinder-Society-Scenario-5-04-The-Stolen-Heir
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?185
+    wiki: https://pathfinderwiki.com/wiki/The_Stolen_Heir
+    tier: 1-5
+  - title: pfs1-05-05
+    number: 05-05
+    name: The Elven Entanglement
+    campaign: PFS
+    author: Ryan Costello
+    thissite: none
+    productpage: http://paizo.com/products/btpy90kr?Pathfinder-Society-Scenario-5-05-The-Elven-Entanglement
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?186
+    wiki: https://pathfinderwiki.com/wiki/The_Elven_Entanglement
+    tier: 7-11
+  - title: pfs1-05-06
+    number: 05-06
+    name: You Have What You Hold
+    campaign: PFS
+    author: Sean McGowan
+    thissite: none
+    productpage: http://paizo.com/products/btpy91td?Pathfinder-Society-Scenario-5-06-You-Have-What-You-Hold
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?187
+    wiki: https://pathfinderwiki.com/wiki/You_Have_What_You_Hold
+    tier: 3-7
+  - title: pfs1-05-07
+    number: 05-07
+    name: Port Godless
+    campaign: PFS
+    author: Ben McFarland
+    thissite: none
+    productpage: http://paizo.com/products/btpy91te?Pathfinder-Society-Scenario-5-07-Port-Godless
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?188
+    wiki: https://pathfinderwiki.com/wiki/Port_Godless
+    tier: 5-9
+  - title: pfs1-05-08
+    number: 05-08
+    name: The Confirmation
+    campaign: PFS
+    author: Kyle Baird
+    thissite: none
+    productpage: http://paizo.com/products/btpy92ci?Pathfinder-Society-Scenario-5-08-The-Confirmation
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?189
+    wiki: https://pathfinderwiki.com/wiki/The_Confirmation
+    tier: 1-2
+  - title: pfs1-05-09
+    number: 05-09
+    name: The Traitor's Lodge
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: http://paizo.com/products/btpy92cj?Pathfinder-Society-Scenario-5-09-The-Traitor-s-Lodge
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?190
+    wiki: https://pathfinderwiki.com/wiki/The_Traitor%27s_Lodge
+    tier: 3-7
+  - title: pfs1-05-10
+    number: 05-10
+    name: Where Mammoths Dare Not Tread
+    campaign: PFS
+    author: Jerall Toi
+    thissite: none
+    productpage: http://paizo.com/products/btpy933o?Pathfinder-Society-Scenario-5-10-Where-Mammoths-Dare-Not-Tread
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?191
+    wiki: https://pathfinderwiki.com/wiki/Where_Mammoths_Dare_Not_Tread
+    tier: 7-11
+  - title: pfs1-05-11
+    number: 05-11
+    name: Library of the Lion
+    campaign: PFS
+    author: John Compton and Kyle Elliott
+    thissite: none
+    productpage: http://paizo.com/products/btpy933p?Pathfinder-Society-Scenario-5-11-Library-of-the-Lion
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?192
+    wiki: https://pathfinderwiki.com/wiki/Library_of_the_Lion
+    tier: 1-5
+  - title: pfs1-05-12
+    number: 05-12
+    name: >
+      Destiny of the Sands-Part 1: A Bitter Bargain
+    campaign: PFS
+    author: Scott Fernandez
+    thissite: none
+    productpage: http://paizo.com/products/btpy93m0?Pathfinder-Society-Scenario-5-12-Destiny-of-the-Sands-Part-1-A-Bitter-Bargain
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?193
+    wiki: https://pathfinderwiki.com/wiki/A_Bitter_Bargain
+    tier: 1-5
   - title: pfs1-05-13
     number: 05-13
     name: Weapon in the Rift
@@ -858,6 +1595,118 @@ entries:
     gmdiscussion: http://paizo.com/threads/rzs2qmss?513-Weapon-in-the-Rift-GM-Discussion-Spoilers#1
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?194
     wiki: https://pathfinderwiki.com/wiki/Weapon_in_the_Rift
+    tier: 5-9
+  - title: pfs1-05-14
+    number: 05-14
+    name: Day of the Demon
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy93m2?Pathfinder-Society-Scenario-5-14-Day-of-the-Demon
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?195
+    wiki: https://pathfinderwiki.com/wiki/Day_of_the_Demon
+    tier: 3-7
+  - title: pfs1-05-15
+    number: 05-15
+    name: >
+      Destiny of the Sands-Part 2: Race to Seeker's Folly
+    campaign: PFS
+    author: Matt Duval
+    thissite: none
+    productpage: http://paizo.com/products/btpy93m3?Pathfinder-Society-Scenario-5-15-Destiny-of-the-Sands-Part-2-Race-to-Seekers-Folly
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?196
+    wiki: https://pathfinderwiki.com/wiki/Race_to_Seeker%27s_Folly
+    tier: 1-5
+  - title: pfs1-05-16
+    number: 05-16
+    name: >
+      Destiny of the Sands-Part 3: Sanctum of the Sages
+    campaign: PFS
+    author: Pedro Coelho
+    thissite: none
+    productpage: http://paizo.com/products/btpy93m4?Pathfinder-Society-Scenario-5-16-Destiny-of-the-Sands-Part-3-Sanctum-of-the-Sages
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?197
+    wiki: https://pathfinderwiki.com/wiki/Sanctum_of_the_Sages
+    tier: 3-7
+  - title: pfs1-05-17
+    number: 05-17
+    name: Fate of the Fiend
+    campaign: PFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: http://paizo.com/products/btpy93m5?Pathfinder-Society-Scenario-5-17-Fate-of-the-Fiend
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?198
+    wiki: https://pathfinderwiki.com/wiki/Fate_of_the_Fiend
+    tier: 7-11
+  - title: pfs1-05-18
+    number: 05-18
+    name: The Stranger Within
+    campaign: PFS
+    author: Sam Polak
+    thissite: none
+    productpage: http://paizo.com/products/btpy95e8?Pathfinder-Society-Scenario-5-18-The-Stranger-Within
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?199
+    wiki: https://pathfinderwiki.com/wiki/The_Stranger_Within
+    tier: 5-9
+  - title: pfs1-05-19
+    number: 05-19
+    name: The Horn of Aroden
+    campaign: PFS
+    author: Nicholas Herod
+    thissite: none
+    productpage: http://paizo.com/products/btpy95e9?Pathfinder-Society-Scenario-5-19-The-Horn-of-Aroden
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?200
+    wiki: https://pathfinderwiki.com/wiki/The_Horn_of_Aroden
+    tier: 1-5
+  - title: pfs1-05-20
+    number: 05-20
+    name: The Sealed Gate
+    campaign: PFS
+    author: Kyle Baird
+    thissite: none
+    productpage: http://paizo.com/products/btpy95ea?Pathfinder-Society-Scenario-5-20-The-Sealed-Gate
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?201
+    wiki: https://pathfinderwiki.com/wiki/The_Sealed_Gate
+    tier: 7-11
+  - title: pfs1-05-21
+    number: 05-21
+    name: The Merchant's Wake
+    campaign: PFS
+    author: Justin Juan
+    thissite: none
+    productpage: http://paizo.com/products/btpy95eb?Pathfinder-Society-Scenario-5-21-The-Merchants-Wake
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?202
+    wiki: https://pathfinderwiki.com/wiki/The_Merchant%27s_Wake
+    tier: 1-5
+  - title: pfs1-05-22
+    number: 05-22
+    name: Scars of the Third Crusade
+    campaign: PFS
+    author: Jason Brick
+    thissite: none
+    productpage: http://paizo.com/products/btpy96i8?Pathfinder-Society-Scenario-5-22-Scars-of-the-Third-Crusade
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?203
+    wiki: https://pathfinderwiki.com/wiki/Scars_of_the_Third_Crusade
+    tier: 1-5
+  - title: pfs1-05-23
+    number: 05-23
+    name: Cairn of Shadows
+    campaign: PFS
+    author: Dennis Baker
+    thissite: none
+    productpage: http://paizo.com/products/btpy96ib?Pathfinder-Society-Scenario-5-23-Cairn-of-Shadows
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?204
+    wiki: https://pathfinderwiki.com/wiki/Cairn_of_Shadows
     tier: 5-9
   - title: pfs1-05-24
     number: 05-24
@@ -870,6 +1719,325 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?205
     wiki: https://pathfinderwiki.com/wiki/Assault_on_the_Wound
     tier: 3-7
+  - title: pfs1-05-25
+    number: 05-25
+    name: Vengeance at Sundered Crag
+    campaign: PFS
+    author: Paris Crenshaw
+    thissite: none
+    productpage: http://paizo.com/products/btpy96id?Pathfinder-Society-Scenario-5-25-Vengeance-at-Sundered-Crag
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?206
+    wiki: https://pathfinderwiki.com/wiki/Vengeance_at_Sundered_Crag
+    tier: 7-11
+  - title: pfs1-05-99
+    number: 05-99
+    name: The Paths We Choose
+    campaign: PFS
+    author: Tim Hitchcock
+    thissite: none
+    productpage: http://paizo.com/products/btpy97n4?Pathfinder-Society-Scenario-5-99-The-Paths-We-Choose
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?242
+    wiki: https://pathfinderwiki.com/wiki/The_Paths_We_Choose
+    tier: 3-7
+  - title: pfs1-06-00
+    number: 06-00
+    name: Legacy of the Stonelords
+    campaign: PFS
+    author: Mike Shel
+    thissite: none
+    productpage: http://paizo.com/products/btpy97n3?Pathfinder-Society-Scenario-6-00-Legacy-of-the-Stonelords
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?240
+    wiki: https://pathfinderwiki.com/wiki/Legacy_of_the_Stonelords
+    tier: 1-11
+  - title: pfs1-06-01
+    number: 06-01
+    name: Trial by Machine
+    campaign: PFS
+    author: Sean McGowan
+    thissite: none
+    productpage: http://paizo.com/products/btpy97n5
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?209
+    wiki: https://pathfinderwiki.com/wiki/Trial_by_Machine
+    tier: 1-5
+  - title: pfs1-06-02
+    number: 06-02
+    name: The Silver Mount Collection
+    campaign: PFS
+    author: Crystal Frasier
+    thissite: none
+    productpage: http://paizo.com/products/btpy97n6?Pathfinder-Society-Scenario-6-02-The-Silver-Mount-Collection
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?210
+    wiki: https://pathfinderwiki.com/wiki/The_Silver_Mount_Collection
+    tier: 3-7
+  - title: pfs1-06-03
+    number: 06-03
+    name: The Technic Siege
+    campaign: PFS
+    author: Kyle Baird
+    thissite: none
+    productpage: http://paizo.com/products/btpy97n7?Pathfinder-Society-Scenario-6-03-The-Technic-Siege
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?211
+    wiki: https://pathfinderwiki.com/wiki/The_Technic_Siege
+    tier: 5-9
+  - title: pfs1-06-04
+    number: 06-04
+    name: Beacon Below
+    campaign: PFS
+    author: Matt Duval
+    thissite: none
+    productpage: http://paizo.com/products/btpy9984?Pathfinder-Society-Scenario-6-04-Beacon-Below
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?243
+    wiki: https://pathfinderwiki.com/wiki/Beacon_Below
+    tier: 7-11
+  - title: pfs1-06-05
+    number: 06-05
+    name: Slave Ships of Absalom
+    campaign: PFS
+    author: Mark Garringer
+    thissite: none
+    productpage: http://paizo.com/products/btpy9985?Pathfinder-Society-Scenario-6-05-Slave-Ships-of-Absalom
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?244
+    wiki: https://pathfinderwiki.com/wiki/Slave_Ships_of_Absalom
+    tier: 1-5
+  - title: pfs1-06-06
+    number: 06-06
+    name: Hall of the Flesh Eaters
+    campaign: PFS
+    author: Tom Philips
+    thissite: none
+    productpage: http://paizo.com/products/btpy9986?Pathfinder-Society-Scenario-6-06-Hall-of-the-Flesh-Eaters
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?250
+    wiki: https://pathfinderwiki.com/wiki/Hall_of_the_Flesh_Eaters
+    tier: 1-5
+  - title: pfs1-06-07
+    number: 06-07
+    name: Valley of Veiled Flame
+    campaign: PFS
+    author: Nathan King
+    thissite: none
+    productpage: http://paizo.com/products/btpy9987?Pathfinder-Society-Scenario-6-07-Valley-of-Veiled-Flame
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?251
+    wiki: https://pathfinderwiki.com/wiki/Valley_of_Veiled_Flame
+    tier: 5-9
+  - title: pfs1-06-08
+    number: 06-08
+    name: The Segang Expedition
+    campaign: PFS
+    author: Benjamin Bruck
+    thissite: none
+    productpage: http://paizo.com/products/btpy9a1w
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?256
+    wiki: https://pathfinderwiki.com/wiki/The_Segang_Expedition
+    tier: 1-5
+  - title: pfs1-06-09
+    number: 06-09
+    name: By Way of Bloodcove
+    campaign: PFS
+    author: Justin Juan
+    thissite: none
+    productpage: http://paizo.com/products/btpy9a1x?Pathfinder-Society-Scenario-6-09-By-Way-of-Bloodcove
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?257
+    wiki: https://pathfinderwiki.com/wiki/By_Way_of_Bloodcove
+    tier: 3-7
+  - title: pfs1-06-10
+    number: 06-10
+    name: The Wounded Wisp
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: http://paizo.com/products/btpy9a1y?Pathfinder-Society-Scenario-6-10-The-Wounded-Wisp
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?258
+    wiki: https://pathfinderwiki.com/wiki/The_Wounded_Wisp
+    tier: 1-2
+  - title: pfs1-06-11
+    number: 06-11
+    name: The Slave Master's Mirror
+    campaign: PFS
+    author: Sam Polak
+    thissite: none
+    productpage: http://paizo.com/products/btpy9a1z
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?259
+    wiki: https://pathfinderwiki.com/wiki/The_Slave_Master%27s_Mirror
+    tier: 3-7
+  - title: pfs1-06-12
+    number: 06-12
+    name: Scions of the Sky Key, Part 1: On Sharrowsmith's Trail
+    campaign: PFS
+    author: Robert Brookes
+    thissite: none
+    productpage: http://paizo.com/products/btpy9am4
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?260
+    wiki: https://pathfinderwiki.com/wiki/On_Sharrowsmith%27s_Trail
+    tier: 1-5
+  - title: pfs1-06-13
+    number: 06-13
+    name: Of Kirin and Kraken
+    campaign: PFS
+    author: Kris Leonard
+    thissite: none
+    productpage: http://paizo.com/products/btpy9am5?Pathfinder-Society-Scenario-6-13-Of-Kirin-and-Kraken
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?261
+    wiki: https://pathfinderwiki.com/wiki/Of_Kirin_and_Kraken
+    tier: 7-11
+  - title: pfs1-06-14
+    number: 06-14
+    name: Scions of the Sky Key, Part 2: Kaava Quarry
+    campaign: PFS
+    author: Mike Kimmel
+    thissite: none
+    productpage: http://paizo.com/products/btpy9am6
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?263
+    wiki: https://pathfinderwiki.com/wiki/Kaava_Quarry
+    tier: 1-5
+  - title: pfs1-06-15
+    number: 06-15
+    name: The Overflow Archives
+    campaign: PFS
+    author: Scott Sharplin
+    thissite: none
+    productpage: http://paizo.com/products/btpy9ch0
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?265
+    wiki: https://pathfinderwiki.com/wiki/The_Overflow_Archives
+    tier: 1-5
+  - title: pfs1-06-16
+    number: 06-16
+    name: Scions of the Sky Key, Part 3: The Golden Guardian
+    campaign: PFS
+    author: Mikko Kallio
+    thissite: none
+    productpage: http://paizo.com/products/btpy9am7?Pathfinder-Society-Scenario-6-16-Scions-of-the-Sky-Key-Part-3-The-Golden-Guardian
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?262
+    wiki: https://pathfinderwiki.com/wiki/The_Golden_Guardian
+    tier: 1-5
+  - title: pfs1-06-17
+    number: 06-17
+    name: Fires of Karamoss
+    campaign: PFS
+    author: Joe Homes
+    thissite: none
+    productpage: http://paizo.com/products/btpy9ch1?Pathfinder-Society-Scenario-6-17-Fires-of-Karamoss
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?266
+    wiki: https://pathfinderwiki.com/wiki/Fires_of_Karamoss
+    tier: 5-9
+  - title: pfs1-06-18
+    number: 06-18
+    name: From Under Ice
+    campaign: PFS
+    author: Andrew Hoskins
+    thissite: none
+    productpage: http://paizo.com/products/btpy9ch2
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?267
+    wiki: https://pathfinderwiki.com/wiki/From_Under_Ice
+    tier: 1-5
+  - title: pfs1-06-19
+    number: 06-19
+    name: Test of Tar Kuata
+    campaign: PFS
+    author: Pedro Coelho
+    thissite: none
+    productpage: http://paizo.com/products/btpy9ch3
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?268
+    wiki: https://pathfinderwiki.com/wiki/Test_of_Tar_Kuata
+    tier: 3-7
+  - title: pfs1-06-20
+    number: 06-20
+    name: Returned to Sky
+    campaign: PFS
+    author: Anthony Li
+    thissite: none
+    productpage: http://paizo.com/products/btpy9ctx?Pathfinder-Society-Scenario-6-20-Returned-to-Sky
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?274
+    wiki: https://pathfinderwiki.com/wiki/Returned_to_Sky
+    tier: 7-11
+  - title: pfs1-06-21
+    number: 06-21
+    name: Tapestry's Toil
+    campaign: PFS
+    author: Steven T. Helt
+    thissite: none
+    productpage: http://paizo.com/products/btpy9cty?Pathfinder-Society-Scenario-6-21-Tapestrys-Toil
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?275
+    wiki: https://pathfinderwiki.com/wiki/Tapestry%27s_Toil
+    tier: 5-9
+  - title: pfs1-06-22
+    number: 06-22
+    name: Out of Anarchy
+    campaign: PFS
+    author: Garret Guillotte
+    thissite: none
+    productpage: http://paizo.com/products/btpy9cu1?Pathfinder-Society-Scenario-6-22-Out-of-Anarchy
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?276
+    wiki: https://pathfinderwiki.com/wiki/Out_of_Anarchy
+    tier: 1-5
+  - title: pfs1-06-23
+    number: 06-23
+    name: The Darkest Abduction
+    campaign: PFS
+    author: Jerome Virnich
+    thissite: none
+    productpage: http://paizo.com/products/btpy9cu2
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?277
+    wiki: https://pathfinderwiki.com/wiki/The_Darkest_Abduction
+    tier: 7-11
+  - title: pfs1-06-97
+    number: 06-97
+    name: Siege of Serpents
+    campaign: PFS
+    author: Jim Groves
+    thissite: none
+    productpage: https://paizo.com/products/btpy9ctz
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?280
+    wiki: https://pathfinderwiki.com/wiki/Siege_of_Serpents
+    tier: 1-11
+  - title: pfs1-06-98
+    number: 06-98
+    name: Serpents Rise
+    campaign: PFS
+    author: John Compton
+    thissite: none
+    productpage: http://paizo.com/products/btpy9cu0
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?281
+    wiki: https://pathfinderwiki.com/wiki/Serpents_Rise
+    tier: 7
+  - title: pfs1-06-99
+    number: 06-99
+    name: True Dragons of Absalom
+    campaign: PFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: http://paizo.com/products/btpy9cu6
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?282
+    wiki: https://pathfinderwiki.com/wiki/True_Dragons_of_Absalom
+    tier: 4
   - title: sfs-01-01
     number: 01-01
     name: The Commencement

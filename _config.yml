@@ -74,7 +74,7 @@ defaults:
     values:
       layout: "page"
       comments: true
-      search: true
+      search: false
       sidebar: home_sidebar
       topnav: topnav
   -
