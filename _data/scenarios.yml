@@ -2041,6 +2041,17 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?282
     wiki: https://pathfinderwiki.com/wiki/True_Dragons_of_Absalom
     tier: 4
+  - title: sfs-01-00
+    number: 01-00
+    name: Claim to Salvation
+    campaign: SFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: https://paizo.com/products/btpy9tsv?Starfinder-Society-Special-100-Claim-to-Salvation
+    gmdiscussion: 
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?377
+    wiki: https://starfinderwiki.com/sf/Claim_to_Salvation
+    tier: 4
   - title: sfs-01-01
     number: 01-01
     name: The Commencement
@@ -2052,6 +2063,39 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?378
     wiki: https://starfinderwiki.com/sf/The_Commencement
     tier: 1-2
+  - title: sfs-01-02
+    number: 01-02
+    name: Fugitive on the Red Planet
+    campaign: SFS
+    author: Jim Groves
+    thissite: none
+    productpage: https://paizo.com/products/btpy9tsy?Starfinder-Society-Scenario-102-Fugitive-on-the-Red-Planet
+    gmdiscussion: 
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?379
+    wiki: https://starfinderwiki.com/sf/Fugitive_on_the_Red_Planet
+    tier: 1-4
+  - title: sfs-01-03
+    number: 01-03
+    name: Yesteryear's Truth
+    campaign: SFS
+    author: Jason Keeley
+    thissite: none
+    productpage: https://paizo.com/products/btpy9tt0?Starfinder-Society-Scenario-103-Yesteryears-Truth
+    gmdiscussion: 
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?380
+    wiki: https://starfinderwiki.com/sf/Yesteryear%27s_Truth
+    tier: 1-4
+  - title: sfs-01-04
+    number: 01-04
+    name: Cries from the Drift
+    campaign: SFS
+    author: Joe Pasini
+    thissite: none
+    productpage: https://paizo.com/products/btpy9wes?Starfinder-Society-Scenario-104-Cries-From-the-Drift
+    gmdiscussion: 
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?393
+    wiki: https://starfinderwiki.com/sf/Cries_From_the_Drift
+    tier: 1-4 
   - title: sfs-01-05
     number: 01-05
     name: The First Mandate
