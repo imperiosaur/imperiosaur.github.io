@@ -2048,7 +2048,7 @@ entries:
     author: Larry Wilhelm
     thissite: none
     productpage: https://paizo.com/products/btpy9tsv?Starfinder-Society-Special-100-Claim-to-Salvation
-    gmdiscussion: 
+    gmdiscussion:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?377
     wiki: https://starfinderwiki.com/sf/Claim_to_Salvation
     tier: 4
@@ -2070,7 +2070,7 @@ entries:
     author: Jim Groves
     thissite: none
     productpage: https://paizo.com/products/btpy9tsy?Starfinder-Society-Scenario-102-Fugitive-on-the-Red-Planet
-    gmdiscussion: 
+    gmdiscussion:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?379
     wiki: https://starfinderwiki.com/sf/Fugitive_on_the_Red_Planet
     tier: 1-4
@@ -2081,7 +2081,7 @@ entries:
     author: Jason Keeley
     thissite: none
     productpage: https://paizo.com/products/btpy9tt0?Starfinder-Society-Scenario-103-Yesteryears-Truth
-    gmdiscussion: 
+    gmdiscussion:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?380
     wiki: https://starfinderwiki.com/sf/Yesteryear%27s_Truth
     tier: 1-4
@@ -2092,10 +2092,10 @@ entries:
     author: Joe Pasini
     thissite: none
     productpage: https://paizo.com/products/btpy9wes?Starfinder-Society-Scenario-104-Cries-From-the-Drift
-    gmdiscussion: 
+    gmdiscussion:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?393
     wiki: https://starfinderwiki.com/sf/Cries_From_the_Drift
-    tier: 1-4 
+    tier: 1-4
   - title: sfs-01-05
     number: 01-05
     name: The First Mandate
@@ -2107,3 +2107,388 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?394
     wiki: https://starfinderwiki.com/sf/The_First_Mandate
     tier: 1-4
+  - title: sfs-01-06
+    number: 01-06
+    name: A Night in Nightarch
+    campaign: SFS
+    author: Mikko Kallio
+    thissite: none
+    productpage: https://paizo.com/products/btpy9weu?Starfinder-Society-Scenario-106-A-Night-in-Nightarch
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?395
+    wiki: https://starfinderwiki.com/sf/A_Night_in_Nightarch
+    tier: 3-6
+  - title: sfs-01-07
+    number: 01-07
+    name: The Solar Sortie
+    campaign: SFS
+    author: Jenny Jarzabski
+    thissite: none
+    productpage: https://paizo.com/products/btpy9x0w/reviews&page=last?Starfinder-Society-Scenario-107-The-Solar-Sortie
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?396
+    wiki: https://starfinderwiki.com/sf/The_Solar_Sortie
+    tier: 1-4
+  - title: sfs-01-08
+    number: 01-08
+    name: Sanctuary of Drowned Delight
+    campaign: SFS
+    author: Kate Baker
+    thissite: none
+    productpage: https://paizo.com/products/btpy9x0y?Starfinder-Society-Scenario-108-Sanctuary-of-Drowned-Delight
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?397
+    wiki: https://starfinderwiki.com/sf/Sanctuary_of_Drowned_Delight
+    tier: 3-6
+  - title: sfs-01-09
+    number: 01-09
+    name: Live Exploration Extreme!
+    campaign: SFS
+    author: John Compton
+    thissite: none
+    productpage: https://paizo.com/products/btpy9x0x?Starfinder-Society-Scenario-109-Live-Exploration-Extreme
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?398
+    wiki: https://starfinderwiki.com/sf/Live_Exploration_Extreme!
+    tier: 1-4
+  - title: sfs-01-10
+    number: 01-10
+    name: The Half-Alive Streets
+    campaign: SFS
+    author: Mara Lynn Butler
+    thissite: none
+    productpage: https://paizo.com/products/btpy9y4l?Starfinder-Society-Scenario-110-The-HalfAlive-Streets
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?407
+    wiki: https://starfinderwiki.com/sf/The_Half-Alive_Streets
+    tier: 1-4
+  - title: sfs-01-11
+    number: 01-11
+    name: In Pursuit of Scoured Past
+    campaign: SFS
+    author: Cole Kronewitter
+    thissite: none
+    productpage: https://paizo.com/products/btpy9y4m?Starfinder-Society-Scenario-111-In-Pursuit-of-the-Scoured-Past
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?408
+    wiki: https://starfinderwiki.com/sf/In_Pursuit_of_the_Scoured_Past
+    tier: 3-6
+  - title: sfs-01-12
+    number: 01-12
+    name: Ashes of Discovery
+    campaign: SFS
+    author: Crystal Malarsky
+    thissite: none
+    productpage: https://paizo.com/products/btpy9zjv?Starfinder-Society-Scenario-112-Ashes-of-Discovery
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?416
+    wiki: https://starfinderwiki.com/sf/Ashes_of_Discovery
+    tier: 1-4
+  - title: sfs-01-13
+    number: 01-13
+    name: On the Trail of History
+    campaign: SFS
+    author: Christopher Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btpy9zjw?Starfinder-Society-Scenario-113-On-the-Trail-of-History
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?417
+    wiki: https://starfinderwiki.com/sf/On_the_Trail_of_History
+    tier: 3-6
+  - title: sfs-01-14
+    number: 01-14
+    name: Star Sugar Heartlove!!!
+    campaign: SFS
+    author: Eleanor Ferron
+    thissite: none
+    productpage: https://paizo.com/products/btpy9zjx?Starfinder-Society-Scenario-114-Star-Sugar-Heartlove
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?418
+    wiki: https://starfinderwiki.com/sf/Star_Sugar_Heartlove!!!
+    tier: 3-6
+  - title: sfs-01-15
+    number: 01-15
+    name: Save the Renkrodas
+    campaign: SFS
+    author: Vanessa Hoskins
+    thissite: none
+    productpage: https://paizo.com/products/btpy9zjy?Starfinder-Society-Scenario-115-Save-the-Renkrodas
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?418
+    wiki: https://starfinderwiki.com/sf/Save_the_Renkrodas
+    tier: 3-6
+  - title: sfs-01-16
+    number: 01-16
+    name: Dreaming of the Future
+    campaign: SFS
+    author: Natalie Kertzner, Nate Wright, Sasha Lindley Hall, Tineke Bolleman
+    thissite: none
+    productpage: https://paizo.com/products/btpya08w?Starfinder-Society-Scenario-116-Dreaming-of-the-Future
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?420
+    wiki: https://starfinderwiki.com/sf/Dreaming_of_the_Future
+    tier: 1-4
+  - title: sfs-01-17
+    number: 01-17
+    name: Reclaiming the Time-Lost Tear
+    campaign: SFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: https://paizo.com/products/btpya08x?Starfinder-Society-Scenario-117-Reclaiming-the-TimeLost-Tear
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?421
+    wiki: https://starfinderwiki.com/sf/Reclaiming_the_Time-Lost_Tear
+    tier: 5-8
+  - title: sfs-01-18
+    number: 01-18
+    name: The Blackmoon Survey
+    campaign: SFS
+    author: Jesse Benner
+    thissite: none
+    productpage: https://paizo.com/products/btpya0a2?Starfinder-Society-Scenario-118-The-Blackmoon-Survey
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?422
+    wiki: https://starfinderwiki.com/sf/The_Blackmoon_Survey
+    tier: 1-4
+  - title: sfs-01-19
+    number: 01-19
+    name: To Conquer the Dragon
+    campaign: SFS
+    author: Matt Duval
+    thissite: none
+    productpage: https://paizo.com/products/btpya0a3?Starfinder-Society-Scenario-119-To-Conquer-the-Dragon
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?423
+    wiki: https://starfinderwiki.com/sf/To_Conquer_the_Dragon
+    tier: 5-8
+  - title: sfs-01-20
+    number: 01-20
+    name: Duskmire Accord 9
+    campaign: SFS
+    author: Brian Duckwitz
+    thissite: none
+    productpage: https://paizo.com/products/btpya0dv?Starfinder-Society-Scenario-120-Duskmire-Accord-9
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?424
+    wiki: https://starfinderwiki.com/sf/Duskmire_Accord_9
+    tier: 1-4
+  - title: sfs-01-21
+    number: 01-21
+    name: Yesteryear's Sorrow
+    campaign: SFS
+    author: Jason Keeley
+    thissite: none
+    productpage: https://paizo.com/products/btpya0dw?Starfinder-Society-Scenario-121-Yesteryears-Sorrow
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?425
+    wiki: https://starfinderwiki.com/sf/Yesteryear%27s_Sorrow
+    tier: 3-6
+  - title: sfs-01-22
+    number: 01-22
+    name: The Protectorate Petition
+    campaign: SFS
+    author: Mike Kimmel
+    thissite: none
+    productpage: https://paizo.com/products/btpzgd7p?Starfinder-Society-Scenario-122-The-Protectorate-Petition
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?425
+    wiki: https://starfinderwiki.com/sf/The_Protectorate_Petition
+    tier: 1-4
+  - title: sfs-01-23
+    number: 01-23
+    name: Return to Sender
+    campaign: SFS
+    author: Natalie Kertzner
+    thissite: none
+    productpage: https://paizo.com/products/btpzgd7q?Starfinder-Society-Scenario-123-Return-to-Sender
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?446
+    wiki: https://starfinderwiki.com/sf/Return_to_Sender
+    tier: 5-8
+  - title: sfs-01-24
+    number: 01-24
+    name: Siege of Enlightenment
+    campaign: SFS
+    author: Tineke Bolleman
+    thissite: none
+    productpage: https://paizo.com/products/btq01va4?Starfinder-Society-Scenario-124-Siege-of-Enlightenment
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?458
+    wiki: https://starfinderwiki.com/sf/Siege_of_Enlightenment
+    tier: 1-4
+  - title: sfs-01-25
+    number: 01-25
+    name: The Beacon Code Dilemma
+    campaign: SFS
+    author: Tineke Bolleman
+    thissite: none
+    productpage: https://paizo.com/products/btq01va5?Starfinder-Society-Scenario-125-The-Beacon-Code-Dilemma
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?459
+    wiki: https://starfinderwiki.com/sf/The_Beacon_Code_Dilemma
+    tier: 3-6
+  - title: sfs-01-26
+    number: 01-26
+    name: Truth of the Seeker
+    campaign: SFS
+    author: Shahreena Shahrani
+    thissite: none
+    productpage: https://paizo.com/products/btq01va8?Starfinder-Society-Scenario-126-Truth-of-the-Seeker
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?460
+    wiki: https://starfinderwiki.com/sf/Truth_of_the_Seeker
+    tier: 3-6
+  - title: sfs-01-27
+    number: 01-27
+    name: King Xeros of Star Azlant
+    campaign: SFS
+    author: Christopher Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btq01va9?Starfinder-Society-Scenario-127-King-Xeros-of-Star-Azlant
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?461
+    wiki: https://starfinderwiki.com/sf/King_Xeros_of_Star_Azlant
+    tier: 5-8
+  - title: sfs-01-28
+    number: 01-28
+    name: It Rests Beneath
+    campaign: SFS
+    author: Jason Tondro
+    thissite: none
+    productpage: https://paizo.com/products/btq01vps?Starfinder-Society-Scenario-128-It-Rests-Beneath
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?462
+    wiki: https://starfinderwiki.com/sf/It_Rests_Beneath
+    tier: 1-4
+  - title: sfs-01-29
+    number: 01-29
+    name: Honorbound Emissaries
+    campaign: SFS
+    author: Jenny Jarzabski
+    thissite: none
+    productpage: https://paizo.com/products/btq01vpt?Starfinder-Society-Scenario-129-Honorbound-Emissaries
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?463
+    wiki: https://starfinderwiki.com/sf/Honorbound_Emissaries
+    tier: 7-10
+  - title: sfs-01-30
+    number: 01-30
+    name: Survivor's Salvation
+    campaign: SFS
+    author: Kiel Howell
+    thissite: none
+    productpage: https://paizo.com/products/btq01wkn?Starfinder-Society-Scenario-130-Survivors-Salvation
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?473
+    wiki: https://starfinderwiki.com/sf/Survivor%27s_Salvation
+    tier: 1-4
+  - title: sfs-01-31
+    number: 01-31
+    name: Treading History's Folly
+    campaign: SFS
+    author: Vanessa Hoskins
+    thissite: none
+    productpage: https://paizo.com/products/btq01wko?Starfinder-Society-Scenario-131-Treading-Historys-Folly
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?474
+    wiki: https://starfinderwiki.com/sf/Treading_History%27s_Folly
+    tier: 3-6
+  - title: sfs-01-32
+    number: 01-32
+    name: Acts of Association
+    campaign: SFS
+    author: Scott Young
+    thissite: none
+    productpage: https://paizo.com/products/btq01wlg?Starfinder-Society-Scenario-132-Acts-of-Association
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?475
+    wiki: https://starfinderwiki.com/sf/Acts_of_Association
+    tier: 1-4
+  - title: sfs-01-33
+    number: 01-33
+    name: Data Breach
+    campaign: SFS
+    author: Jim Groves
+    thissite: none
+    productpage: https://paizo.com/products/btq01wlk?Starfinder-Society-Scenario-133-Data-Breach
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?476
+    wiki: https://starfinderwiki.com/sf/Data_Breach
+    tier: 3-6
+  - title: sfs-01-34
+    number: 01-34
+    name: Heart of the Foe
+    campaign: SFS
+    author: Nicholas Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btq01x4u?Starfinder-Society-Scenario-134-Heart-of-the-Foe
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?477
+    wiki: https://starfinderwiki.com/sf/Heart_of_the_Foe
+    tier: 3-6
+  - title: sfs-01-35
+    number: 01-35
+    name: Rasheen's Riches
+    campaign: SFS
+    author: Mara Lynn Butler
+    thissite: none
+    productpage: https://paizo.com/products/btq01x4v?Starfinder-Society-Scenario-135-Rasheens-Riches
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?478
+    wiki: https://starfinderwiki.com/sf/Rasheen%27s_Riches
+    tier: 5-8
+  - title: sfs-01-36
+    number: 01-36
+    name: Enter the Ashen Asteroid
+    campaign: SFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: https://paizo.com/products/btq01x4w?Starfinder-Society-Scenario-136-Enter-the-Ashen-Asteroid
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?479
+    wiki: https://starfinderwiki.com/sf/Enter_the_Ashen_Asteroid
+    tier: 1-4
+  - title: sfs-01-37
+    number: 01-37
+    name: Siege of Civility
+    campaign: SFS
+    author: Kalervo Oikarinen
+    thissite: none
+    productpage: https://paizo.com/products/btq01x4x?Starfinder-Society-Scenario-137-Siege-of-Civility
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?480
+    wiki: https://starfinderwiki.com/sf/Siege_of_Civility
+    tier: 5-8
+  - title: sfs-01-38
+    number: 01-38
+    name: The Many Minds of Historia
+    campaign: SFS
+    author: Lyz Liddell
+    thissite: none
+    productpage: https://paizo.com/products/btq01x4y?Starfinder-Society-Scenario-138-The-Many-Minds-of-Historia
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?481
+    wiki: https://starfinderwiki.com/sf/The_Many_Minds_of_Historia
+    tier: 5-8
+  - title: sfs-01-39
+    number: 01-39
+    name: The Herald's War
+    campaign: SFS
+    author: Mikko Kallio
+    thissite: none
+    productpage: https://paizo.com/products/btq01x4z?Starfinder-Society-Scenario-139-The-Heralds-War
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?482
+    wiki: https://starfinderwiki.com/sf/The_Herald%27s_War
+    tier: 7-10
+  - title: sfs-01-99
+    number: 01-99
+    name: The Scoured Stars Invasion
+    campaign: SFS
+    author: Mikko Kallio
+    thissite: none
+    productpage: https://paizo.com/products/btpya08y?Starfinder-Society-Scenario-1-99-The-Scoured-Stars-Invasion
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?430
+    wiki: https://starfinderwiki.com/sf/The_Scoured_Stars_Invasion
+    tier: 1-8
