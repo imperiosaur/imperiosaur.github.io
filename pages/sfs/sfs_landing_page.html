@@ -8,8 +8,8 @@ folder: sfs
 ---
 
 <table>
-{% for entry in site.data.scenarios.entries and entry.thissite != "none" %}
-   {% if entry.campaign == "SFS" %}
+{% for entry in site.data.scenarios.entries %}
+   {% if entry.campaign == "SFS" and entry.thissite != "none" %}
      <tr>
        <td> <a href="{{entry.thissite}}"> {{entry.number}} {{entry.name}}</a> </td>
        <td> <a href="{{entry.productpage}}"> Product Page</a> </td>
@@ -20,3 +20,5 @@ folder: sfs
    {% endif %}
 {% endfor %}
 </table>
+
+<a href="sfs_full_table.html"> Full Linked Table </a>
