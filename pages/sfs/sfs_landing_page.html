@@ -8,7 +8,7 @@ folder: sfs
 ---
 
 <table>
-{% for entry in site.data.scenarios.entries %}
+{% for entry in site.data.scenarios.entries and entry.thissite != "none" %}
    {% if entry.campaign == "SFS" %}
      <tr>
        <td> <a href="{{entry.thissite}}"> {{entry.number}} {{entry.name}}</a> </td>
