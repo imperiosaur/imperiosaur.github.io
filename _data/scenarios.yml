@@ -2492,3 +2492,280 @@ entries:
     pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?430
     wiki: https://starfinderwiki.com/sf/The_Scoured_Stars_Invasion
     tier: 1-8
+  - title: sfs-02-00
+    number: 02-00
+    name: Fate of the Scoured God
+    campaign: SFS
+    author: Christopher Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btq01zn5?Starfinder-Society-Scenario-200-Fate-of-the-Scoured-God
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?503
+    wiki: https://starfinderwiki.com/sf/Fate_of_the_Scoured_God
+    tier: 1-12
+  - title: sfs-02-01
+    number: 02-01
+    name: Pact World Warriors
+    campaign: SFS
+    author: Jenny Jarzabski
+    thissite: none
+    productpage: https://paizo.com/products/btq01zn3?Starfinder-Society-Scenario-201-Pact-World-Warriors
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?504
+    wiki: https://starfinderwiki.com/sf/Pact_World_Warriors
+    tier: 1-4
+  - title: sfs-02-02
+    number: 02-02
+    name: Waking the Past
+    campaign: SFS
+    author: Tom Philips
+    thissite: none
+    productpage: https://paizo.com/products/btq01zn4?Starfinder-Society-Scenario-202-Waking-the-Past
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?505
+    wiki: https://starfinderwiki.com/sf/Waking_the_Past
+    tier: 3-6
+  - title: sfs-02-03
+    number: 02-03
+    name: The Withering World
+    campaign: SFS
+    author: Arc Riley, Jennifer Povey, Jessica Catalan, Rigby Bendele, Shahreena Shahrani
+    thissite: none
+    productpage: https://paizo.com/products/btq01zn7?Starfinder-Society-Scenario-203-The-Withering-World
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?508
+    wiki: https://starfinderwiki.com/sf/The_Withering_World
+    tier: 1-4
+  - title: sfs-02-04
+    number: 02-04
+    name: Future's Fall
+    campaign: SFS
+    author: Matt Duval
+    thissite: none
+    productpage: https://paizo.com/products/btq01zn8?Starfinder-Society-Scenario-204-Futures-Fall
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?509
+    wiki: https://starfinderwiki.com/sf/Future%27s_Fall
+    tier: 7-10
+  - title: sfs-02-05
+    number: 02-05
+    name: Meeting of Queens
+    campaign: SFS
+    author: Kiel Howell
+    thissite: none
+    productpage: https://paizo.com/products/btq0205s?Starfinder-Society-Scenario-205-Meeting-of-Queens
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?525
+    wiki: https://starfinderwiki.com/sf/Meeting_of_Queens
+    tier: 1-4
+  - title: sfs-02-06
+    number: 02-06
+    name: >
+      The Stumbling Society, Part 1: Sangoro's Lament
+    campaign: SFS
+    author: Mike Kimmel
+    thissite: none
+    productpage: https://paizo.com/products/btq0205t?Starfinder-Society-Scenario-206-The-Stumbling-Society-Part-1-Sangoros-Lament
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?526
+    wiki: https://starfinderwiki.com/sf/Sangoro%27s_Lament
+    tier: 5-8
+  - title: sfs-02-07
+    number: 02-07
+    name: Four for the First
+    campaign: SFS
+    author: Thurston Hillman
+    thissite: none
+    productpage: https://paizo.com/products/btq021b9?Starfinder-Society-Scenario-207-Four-for-the-First
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?527
+    wiki: https://starfinderwiki.com/sf/Four_for_the_First
+    tier: 1-4
+  - title: sfs-02-08
+    number: 02-08
+    name: >
+      The Stumbling Society, Part 2: Sangoro's Gifts
+    campaign: SFS
+    author: Kendra Leigh Speedling
+    thissite: none
+    productpage: https://paizo.com/products/btq021ba?Starfinder-Society-Scenario-208-The-Stumbling-Society-Part-2-Sangoros-Gifts
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?528
+    wiki: https://starfinderwiki.com/sf/Sangoro%27s_Gifts
+    tier: 5-8
+  - title: sfs-02-09
+    number: 02-09
+    name: Bluerise Breakout
+    campaign: SFS
+    author: Jason Tondro
+    thissite: none
+    productpage: https://paizo.com/products/btq021cg?Starfinder-Society-Scenario-209-Bluerise-Breakout
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?529
+    wiki: https://starfinderwiki.com/sf/Bluerise_Breakout
+    tier: 1-4
+  - title: sfs-02-10
+    number: 02-10
+    name: Corporate Interests
+    campaign: SFS
+    author: Diego Valdez, Emily Parks, Joseph Blomquist, Sam Phelan
+    thissite: none
+    productpage: https://paizo.com/products/btq021ch?Starfinder-Society-Scenario-210-Corporate-Interests
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?530
+    wiki: https://starfinderwiki.com/sf/Corporate_Interests
+    tier: 3-6
+  - title: sfs-02-11
+    number: 02-11
+    name: Descent into Verdant Shadow
+    campaign: SFS
+    author: Larry Wilhelm
+    thissite: none
+    productpage: https://paizo.com/products/btq021wi?Starfinder-Society-Scenario-211-Descent-into-Verdant-Shadow
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?531
+    wiki: https://starfinderwiki.com/sf/Descent_into_Verdant_Shadow
+    tier: 3-6
+  - title: sfs-02-12
+    number: 02-12
+    name: Colossus Heist
+    campaign: SFS
+    author: Amanda Hamon
+    thissite: none
+    productpage: https://paizo.com/products/btq021wj?Starfinder-Society-Scenario-212-Colossus-Heist
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?532
+    wiki: https://starfinderwiki.com/sf/Colossus_Heist
+    tier: 7-10
+  - title: sfs-02-13
+    number: 02-13
+    name: Storm of the End Times
+    campaign: SFS
+    author: Nicholas Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btq022bi?Starfinder-Society-Scenario-213-Storm-of-the-End-Times
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?552
+    wiki: https://starfinderwiki.com/sf/Storm_of_the_End_Times
+    tier: 1-4
+  - title: sfs-02-14
+    number: 02-14
+    name: Data Purge
+    campaign: SFS
+    author: Nicholas Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btq022bj?Starfinder-Society-Scenario-214-Data-Purge
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?553
+    wiki: https://starfinderwiki.com/sf/Data_Purge
+    tier: 9-12
+  - title: sfs-02-15
+    number: 02-15
+    name: The Infernal Gallery
+    campaign: SFS
+    author: Jessica Catalan
+    thissite: none
+    productpage: https://paizo.com/products/btq022lc?Starfinder-Society-Scenario-215-The-Infernal-Gallery
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?554
+    wiki: https://starfinderwiki.com/sf/The_Infernal_Gallery
+    tier: 1-4
+  - title: sfs-02-16
+    number: 02-16
+    name: A Scoured Home
+    campaign: SFS
+    author: Christopher Wasko
+    thissite: none
+    productpage: https://paizo.com/products/btq022ld?Starfinder-Society-Scenario-216-A-Scoured-Home
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?555
+    wiki: https://starfinderwiki.com/sf/A_Scoured_Home
+    tier: 5-8
+  - title: sfs-02-17
+    number: 02-17
+    name: Cost of Living
+    campaign: SFS
+    author: Andrew Mullen & Jenny Jarzabski
+    thissite: none
+    productpage: https://paizo.com/products/btq022x3?Starfinder-Society-Scenario-217-Cost-of-Living
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?556
+    wiki: https://starfinderwiki.com/sf/Cost_of_Living
+    tier: 3-6
+  - title: sfs-02-18
+    number: 02-18
+    name: Forbidden Tides
+    campaign: SFS
+    author: Kate Baker
+    thissite: none
+    productpage: https://paizo.com/products/btq022x4/discuss?Starfinder-Society-Scenario-218-Forbidden-Tides
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?557
+    wiki: https://starfinderwiki.com/sf/Forbidden_Tides
+    tier: 7-10
+  - title: sfs-02-19
+    number: 02-19
+    name: Truth Keepers
+    campaign: SFS
+    author: Natalie Kertzner & John Curtin
+    thissite: none
+    productpage: https://paizo.com/products/btq022x5?Starfinder-Society-Scenario-219-Truth-Keepers
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?558
+    wiki: https://starfinderwiki.com/sf/Truth_Keepers
+    tier: 3-6
+  - title: sfs-02-20
+    number: 02-20
+    name: Shades of Spite
+    campaign: SFS
+    author: Vanessa Hoskins
+    thissite: none
+    productpage: https://paizo.com/products/btq022x6?Starfinder-Society-Scenario-220-Shades-of-Spite
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?559
+    wiki: https://starfinderwiki.com/sf/Shades_of_Spite
+    tier: 7-10
+  - title: sfs-02-21
+    number: 02-21
+    name: Illegal Shipment
+    campaign: SFS
+    author: Joseph Blomquist
+    thissite: none
+    productpage: https://paizo.com/products/btq022x7?Starfinder-Society-Scenario-221-Illegal-Shipment
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?560
+    wiki: https://starfinderwiki.com/sf/Illegal_Shipment
+    tier: 1-4
+  - title: sfs-02-22
+    number: 02-22
+    name: Rasheen's Reception
+    campaign: SFS
+    author: Mara Lynn Butler
+    thissite: none
+    productpage: https://paizo.com/products/btq022x8?Starfinder-Society-Scenario-222-Rasheens-Reception
+    gmdiscussion:
+    pfsprep: http://pfsprep.com/e107_plugins/forum/forum_viewforum.php?561
+    wiki: https://starfinderwiki.com/sf/Rasheen%27s_Reception
+    tier: 5-8
+  - title: sfs-02-23
+    number: 02-23
+    name: The Edge of Cadascon
+    campaign: SFS
+    author: Emily Parks
+    thissite: none
+    productpage: https://paizo.com/products/btq023cw?Starfinder-Society-Scenario-223-The-Edge-of-Cadascon
+    gmdiscussion:
+    pfsprep:
+    wiki: https://starfinderwiki.com/sf/The_Edge_of_Cadascon
+    tier: 3-6
+  - title: sfs-02-24
+    number: 02-24
+    name: Cornered Rat
+    campaign: SFS
+    author: Mikko Kallio
+    thissite: none
+    productpage: https://paizo.com/products/btq023cx?Starfinder-Society-Scenario-224-Cornered-Rat
+    gmdiscussion:
+    pfsprep:
+    wiki: https://starfinderwiki.com/sf/Cornered_Rat
+    tier: 9-12
